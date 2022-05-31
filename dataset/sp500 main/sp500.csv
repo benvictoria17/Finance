@@ -1,0 +1,506 @@
+Symbol,Security,Sector,SubIndustry,Address,State
+A,"Agilent Technologies Inc","Health Care","Health Care Equipment & Services","Santa Clara",California
+AA,"Alcoa Inc",Materials,Aluminum,"New York","New York"
+AAL,"American Airlines Group",Industrials,Airlines,"Fort Worth",Texas
+AAP,"Advance Auto Parts","Consumer Discretionary","Automotive Retail",Roanoke,Virginia
+AAPL,"Apple Inc.","Information Technology","Computer Hardware",Cupertino,California
+ABBV,AbbVie,"Health Care",Pharmaceuticals,"North Chicago",Illinois
+ABC,"AmerisourceBergen Corp","Health Care","Health Care Distribution & Services",Chesterbrook,Pennsylvania
+ABT,"Abbott Laboratories","Health Care","Health Care Equipment & Services","North Chicago",Illinois
+ACE,"ACE Limited",Financials,"Property & Casualty Insurance",Zurich,Switzerland
+ACN,"Accenture plc","Information Technology","IT Consulting & Other Services",Dublin,Ireland
+ADBE,"Adobe Systems Inc","Information Technology","Application Software","San Jose",California
+ADI,"Analog Devices, Inc.","Information Technology",Semiconductors,Norwood,Massachusetts
+ADM,"Archer-Daniels-Midland Co","Consumer Staples","Agricultural Products",Decatur,Illinois
+ADP,"Automatic Data Processing","Information Technology","Internet Software & Services",Roseland,"New Jersey"
+ADS,"Alliance Data Systems","Information Technology","Data Processing & Outsourced Services",Plano,Texas
+ADSK,"Autodesk Inc","Information Technology","Application Software","San Rafael",California
+ADT,"ADT Corp",Industrials,"Diversified Commercial Services","Boca Raton",Florida
+AEE,"Ameren Corp",Utilities,MultiUtilities,"St. Louis",Missouri
+AEP,"American Electric Power",Utilities,"Electric Utilities",Columbus,Ohio
+AES,"AES Corp",Utilities,"Independent Power Producers & Energy Traders",Arlington,Virginia
+AET,"Aetna Inc","Health Care","Managed Health Care",Hartford,Connecticut
+AFL,"AFLAC Inc",Financials,"Life & Health Insurance",Columbus,Georgia
+AGN,"Allergan plc","Health Care",Pharmaceuticals,Dublin,Ireland
+AIG,"American International Group, Inc.",Financials,"Property & Casualty Insurance","New York","New York"
+AIV,"Apartment Investment & Mgmt",Financials,REITs,Denver,Colorado
+AIZ,"Assurant Inc",Financials,"Multi-line Insurance","New York","New York"
+AKAM,"Akamai Technologies Inc","Information Technology","Internet Software & Services",Cambridge,Massachusetts
+ALL,"Allstate Corp",Financials,"Property & Casualty Insurance","Northfield Township",Illinois
+ALLE,Allegion,Industrials,"Building Products",Dublin,Ireland
+ALTR,"Altera Corp","Information Technology",Semiconductors,"San Jose",California
+ALXN,"Alexion Pharmaceuticals","Health Care",Biotechnology,Cheshire,Connecticut
+AMAT,"Applied Materials Inc","Information Technology","Semiconductor Equipment","Santa Clara",California
+AME,Ametek,Industrials,"Electrical Components & Equipment",Berwyn,Pennsylvania
+AMG,"Affiliated Managers Group Inc",Financials,"Asset Management & Custody Banks",Beverly,Massachusetts
+AMGN,"Amgen Inc","Health Care",Biotechnology,"Thousand Oaks",California
+AMP,"Ameriprise Financial",Financials,"Diversified Financial Services",Minneapolis,Minnesota
+AMT,"American Tower Corp A",Financials,"Specialized REITs",Boston,Massachusetts
+AMZN,"Amazon.com Inc","Consumer Discretionary","Internet Retail",Seattle,Washington
+AN,"AutoNation Inc","Consumer Discretionary","Specialty Stores","Fort Lauderdale",Florida
+ANTM,"Anthem Inc.","Health Care","Managed Health Care",Indianapolis,Indiana
+AON,"Aon plc",Financials,"Insurance Brokers",London,"United Kingdom"
+APA,"Apache Corporation",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+APC,"Anadarko Petroleum Corp",Energy,"Oil & Gas Exploration & Production","The Woodlands",Texas
+APD,"Air Products & Chemicals Inc",Materials,"Industrial Gases",Allentown,Pennsylvania
+APH,"Amphenol Corp A",Industrials,"Electrical Components & Equipment",Wallingford,Connecticut
+ARG,"Airgas Inc",Materials,"Industrial Gases",Radnor,Pennsylvania
+ATVI,"Activision Blizzard","Information Technology","Home Entertainment Software","Santa Monica",California
+AVB,"AvalonBay Communities, Inc.",Financials,"Residential REITs",Arlington,Virginia
+AVGO,"Avago Technologies","Information Technology",Semiconductors,"San Jose",California
+AVY,"Avery Dennison Corp",Materials,"Paper Packaging",Glendale,California
+AXP,"American Express Co",Financials,"Consumer Finance","New York","New York"
+AZO,"AutoZone Inc","Consumer Discretionary","Specialty Stores",Memphis,Tennessee
+BA,"Boeing Company",Industrials,"Aerospace & Defense",Chicago,Illinois
+BAC,"Bank of America Corp",Financials,Banks,Charlotte,"North Carolina"
+BAX,"Baxter International Inc.","Health Care","Health Care Equipment & Services",Deerfield,Illinois
+BBBY,"Bed Bath & Beyond","Consumer Discretionary","Specialty Stores",Union,"New Jersey"
+BBT,"BB&T Corporation",Financials,Banks,Winston-Salem,"North Carolina"
+BBY,"Best Buy Co. Inc.","Consumer Discretionary","Computer & Electronics Retail",Richfield,Minnesota
+BCR,"Bard (C.R.) Inc.","Health Care","Health Care Equipment & Services","Murray Hill","New Jersey"
+BDX,"Becton Dickinson","Health Care","Health Care Equipment & Services","Franklin Lakes","New Jersey"
+BEN,"Franklin Resources",Financials,"Asset Management & Custody Banks","San Mateo",California
+BF-B,"Brown-Forman Corporation","Consumer Staples","Distillers & Vintners",Louisville,Kentucky
+BHI,"Baker Hughes Inc",Energy,"Oil & Gas Equipment & Services",Houston,Texas
+BIIB,"BIOGEN IDEC Inc.","Health Care",Biotechnology,Weston,Massachusetts
+BK,"The Bank of New York Mellon Corp.",Financials,Banks,"New York","New York"
+BLK,BlackRock,Financials,"Asset Management & Custody Banks","New York","New York"
+BLL,"Ball Corp",Materials,"Metal & Glass Containers",Broomfield,Colorado
+BMY,"Bristol-Myers Squibb","Health Care","Health Care Distributors & Services","New York","New York"
+BRCM,"Broadcom Corporation","Information Technology",Semiconductors,Irvine,California
+BRK-B,"Berkshire Hathaway",Financials,"Multi-Sector Holdings",Omaha,Nebraska
+BSX,"Boston Scientific","Health Care","Health Care Equipment & Services",Marlborough,Massachusetts
+BWA,BorgWarner,"Consumer Discretionary","Auto Parts & Equipment","Auburn Hills",Michigan
+BXLT,Baxalta,"Health Care",Biotechnology,Deerfield,Illinois
+BXP,"Boston Properties",Financials,REITs,Boston,Massachusetts
+C,"Citigroup Inc.",Financials,Banks,"New York","New York"
+CA,"CA, Inc.","Information Technology","Systems Software",Islandia,"New York"
+CAG,"ConAgra Foods Inc.","Consumer Staples","Packaged Foods & Meats",Omaha,Nebraska
+CAH,"Cardinal Health Inc.","Health Care","Health Care Distributors & Services",Dublin,Ohio
+CAM,"Cameron International Corp.",Energy,"Oil & Gas Equipment & Services",Houston,Texas
+CAT,"Caterpillar Inc.",Industrials,"Construction & Farm Machinery & Heavy Trucks",Peoria,Illinois
+CB,"Chubb Corp.",Financials,"Property & Casualty Insurance",Warren,"New Jersey"
+CBG,"CBRE Group",Financials,"Real Estate Services","Los Angeles",California
+CBS,"CBS Corp.","Consumer Discretionary","Broadcasting & Cable TV","New York","New York"
+CCE,"Coca-Cola Enterprises","Consumer Staples","Soft Drinks",Atlanta,Georgia
+CCI,"Crown Castle International Corp.",Financials,REITs,Houston,Texas
+CCL,"Carnival Corp.","Consumer Discretionary","Hotels, Resorts & Cruise Lines",Miami,Florida
+CELG,"Celgene Corp.","Health Care",Biotechnology,Summit,"New Jersey"
+CERN,Cerner,"Health Care","Health Care Distributors & Services","North Kansas City",Missouri
+CF,"CF Industries Holdings Inc",Materials,"Fertilizers & Agricultural Chemicals",Deerfield,Illinois
+CHK,"Chesapeake Energy",Energy,"Integrated Oil & Gas","Oklahoma City",Oklahoma
+CHRW,"C. H. Robinson Worldwide",Industrials,"Air Freight & Logistics","Eden Prairie",Minnesota
+CI,"CIGNA Corp.","Health Care","Managed Health Care",Philadelphia,Pennsylvania
+CINF,"Cincinnati Financial",Financials,"Property & Casualty Insurance",Fairfield,Ohio
+CL,Colgate-Palmolive,"Consumer Staples","Household Products","New York","New York"
+CLX,"The Clorox Company","Consumer Staples","Household Products",Oakland,California
+CMA,"Comerica Inc.",Financials,Banks,Dallas,Texas
+CMCSA,"Comcast A Corp","Consumer Discretionary","Broadcasting & Cable TV",Philadelphia,Pennsylvania
+CMCSK,"Comcast Special Corp Class A","Consumer Discretionary","Broadcasting & Cable TV",Philadelphia,Pennsylvania
+CME,"CME Group Inc.",Financials,"Diversified Financial Services",Chicago,Illinois
+CMG,"Chipotle Mexican Grill","Consumer Discretionary",Restaurants,Denver,Colorado
+CMI,"Cummins Inc.",Industrials,"Industrial Machinery",Columbus,Indiana
+CMS,"CMS Energy",Utilities,MultiUtilities,Jackson,Michigan
+CNP,"CenterPoint Energy",Utilities,MultiUtilities,Houston,Texas
+CNX,"CONSOL Energy Inc.",Energy,"Coal & Consumable Fuels","Cecil Township",Pennsylvania
+COF,"Capital One Financial",Financials,"Consumer Finance","Tysons Corner",Virginia
+COG,"Cabot Oil & Gas",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+COH,"Coach Inc.","Consumer Discretionary","Apparel, Accessories & Luxury Goods","New York","New York"
+COL,"Rockwell Collins",Industrials,"Industrial Conglomerates","Cedar Rapids",Iowa
+COP,ConocoPhillips,Energy,"Oil & Gas Exploration & Production",Houston,Texas
+COST,"Costco Co.","Consumer Staples","Hypermarkets & Super Centers",Issaquah,Washington
+CPB,"Campbell Soup","Consumer Staples","Packaged Foods & Meats",Camden,"New Jersey"
+CPGX,"Columbia Pipeline Group Inc",Energy,"Oil & Gas Storage & Transportation",Houston,Texas
+CRM,Salesforce.com,"Information Technology","Internet Software & Services","San Francisco",California
+CSCO,"Cisco Systems","Information Technology","Networking Equipment","San Jose",California
+CSRA,"CSRA Inc.","Information Technology","IT Consulting & Services","Falls Church",Virginia
+CSX,"CSX Corp.",Industrials,Railroads,Jacksonville,Florida
+CTAS,"Cintas Corporation",Industrials,"Diversified Support Services",Mason,Ohio
+CTL,"CenturyLink Inc","Telecommunications Services","Integrated Telecommunications Services",Monroe,Louisiana
+CTSH,"Cognizant Technology Solutions","Information Technology","IT Consulting & Services",Teaneck,"New Jersey"
+CTXS,"Citrix Systems","Information Technology","Internet Software & Services","Fort Lauderdale",Florida
+CVC,"Cablevision Systems Corp.","Consumer Discretionary","Broadcasting & Cable TV",Bethpage,"New York"
+CVS,"CVS Caremark Corp.","Consumer Staples","Drug Retail",Woonsocket,"Rhode Island"
+CVX,"Chevron Corp.",Energy,"Integrated Oil & Gas","San Ramon",California
+D,"Dominion Resources",Utilities,"Electric Utilities",Richmond,Virginia
+DAL,"Delta Air Lines",Industrials,Airlines,Atlanta,Georgia
+DD,"Du Pont (E.I.)",Materials,"Diversified Chemicals",Wilmington,Delaware
+DE,"Deere & Co.",Industrials,"Construction & Farm Machinery & Heavy Trucks",Moline,Illinois
+DFS,"Discover Financial Services",Financials,"Consumer Finance",Riverwoods,Illinois
+DG,"Dollar General","Consumer Discretionary","General Merchandise Stores",Goodlettsville,Tennessee
+DGX,"Quest Diagnostics","Health Care","Health Care Facilities",Madison,"New Jersey"
+DHI,"D. R. Horton","Consumer Discretionary",Homebuilding,"Fort Worth",Texas
+DHR,"Danaher Corp.",Industrials,"Industrial Machinery",Washington,"The District of Columbia"
+DIS,"The Walt Disney Company","Consumer Discretionary","Broadcasting & Cable TV",Burbank,California
+DISCA,"Discovery Communications-A","Consumer Discretionary","Broadcasting & Cable TV","Silver Spring",Maryland
+DISCK,"Discovery Communications-C","Consumer Discretionary","Broadcasting & Cable TV","Silver Spring",Maryland
+DLPH,"Delphi Automotive","Consumer Discretionary","Auto Parts & Equipment","Gillingham, Kent","United Kingdom"
+DLTR,"Dollar Tree","Consumer Discretionary","General Merchandise Stores",Chesapeake,Virginia
+DNB,"Dun & Bradstreet",Industrials,"Data Processing Services","Short Hills","New Jersey"
+DO,"Diamond Offshore Drilling",Energy,"Oil & Gas Drilling",Houston,Texas
+DOV,"Dover Corp.",Industrials,"Industrial Machinery","Downers Grove",Illinois
+DOW,"Dow Chemical",Materials,"Diversified Chemicals",Midland,Michigan
+DPS,"Dr Pepper Snapple Group","Consumer Staples","Soft Drinks",Plano,Texas
+DRI,"Darden Restaurants","Consumer Discretionary",Restaurants,Orlando,Florida
+DTE,"DTE Energy Co.",Utilities,MultiUtilities,Detroit,Michigan
+DUK,"Duke Energy",Utilities,"Electric Utilities",Charlotte,"North Carolina"
+DVA,"DaVita Inc.","Health Care","Health Care Facilities",Denver,Colorado
+DVN,"Devon Energy Corp.",Energy,"Oil & Gas Exploration & Production","Oklahoma City",Oklahoma
+EA,"Electronic Arts","Information Technology","Home Entertainment Software","Redwood City",California
+EBAY,"eBay Inc.","Information Technology","Internet Software & Services","San Jose",California
+ECL,"Ecolab Inc.",Materials,"Specialty Chemicals","St. Paul",Minnesota
+ED,"Consolidated Edison",Utilities,"Electric Utilities","New York","New York"
+EFX,"Equifax Inc.",Financials,"Diversified Financial Services",Atlanta,Georgia
+EIX,"Edison Int'l",Utilities,"Electric Utilities",Rosemead,California
+EL,"Estee Lauder Cos.","Consumer Staples","Personal Products","New York","New York"
+EMC,"EMC Corp.","Information Technology","IT Consulting & Services",Hopkinton,Massachusetts
+EMN,"Eastman Chemical",Materials,"Diversified Chemicals",Kingsport,Tennessee
+EMR,"Emerson Electric Company",Industrials,"Industrial Conglomerates",Ferguson,Missouri
+ENDP,"Endo International","Health Care",Pharmaceuticals,Dublin,Ireland
+EOG,"EOG Resources",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+EQIX,Equinix,"Information Technology","Internet Software & Services","Redwood City",California
+EQR,"Equity Residential",Financials,REITs,Chicago,Illinois
+EQT,"EQT Corporation",Energy,"Oil & Gas Exploration & Production",Pittsburgh,Pennsylvania
+ES,"Eversource Energy",Utilities,MultiUtilities,Springfield,Massachusetts
+ESRX,"Express Scripts","Health Care","Health Care Distributors & Services","Cool Valley",Missouri
+ESS,"Essex Property Trust Inc",Financials,"Residential REITs","Palo Alto",California
+ESV,"Ensco plc",Energy,"Oil & Gas Drilling",London,"United Kingdom"
+ETFC,E*Trade,Financials,"Investment Banking & Brokerage","New York","New York"
+ETN,"Eaton Corporation",Industrials,"Industrial Conglomerates",Dublin,Ireland
+ETR,"Entergy Corp.",Utilities,"Electric Utilities","New Orleans",Louisiana
+EW,"Edwards Lifesciences","Health Care","Health Care Equipment & Services",Irvine,California
+EXC,"Exelon Corp.",Utilities,MultiUtilities,Chicago,Illinois
+EXPD,"Expeditors Int'l",Industrials,"Air Freight & Logistics",Seattle,Washington
+EXPE,"Expedia Inc.","Consumer Discretionary","Hotels, Resorts & Cruise Lines",Bellevue,Washington
+F,"Ford Motor","Consumer Discretionary","Automobile Manufacturers",Dearborn,Michigan
+FAST,"Fastenal Co",Industrials,"Building Products",Winona,Minnesota
+FB,Facebook,"Information Technology","Internet Software & Services","Menlo Park",California
+FCX,"Freeport-McMoran Cp & Gld",Materials,"Diversified Metals & Mining",Phoenix,Arizona
+FDX,"FedEx Corporation",Industrials,"Air Freight & Logistics",Memphis,Tennessee
+FE,"FirstEnergy Corp",Utilities,"Electric Utilities",Akron,Ohio
+FFIV,"F5 Networks","Information Technology","Networking Equipment",Seattle,Washington
+FIS,"Fidelity National Information Services","Information Technology","Internet Software & Services",Jacksonville,Florida
+FISV,"Fiserv Inc","Information Technology","Internet Software & Services",Brookfield,Wisconsin
+FITB,"Fifth Third Bancorp",Financials,Banks,Cincinnati,Ohio
+FLIR,"FLIR Systems",Industrials,"Aerospace & Defense",Wilsonville,Oregon
+FLR,"Fluor Corp.",Industrials,"Diversified Commercial Services",Irving,Texas
+FLS,"Flowserve Corporation",Industrials,"Industrial Machinery",Irving,Texas
+FMC,"FMC Corporation",Materials,"Diversified Chemicals",Philadelphia,Pennsylvania
+FOSL,"Fossil, Inc.","Consumer Discretionary","Apparel, Accessories & Luxury Goods",Richardson,Texas
+FOX,"Twenty-First Century Fox Class B","Consumer Discretionary",Publishing,"New York","New York"
+FOXA,"Twenty-First Century Fox Class A","Consumer Discretionary",Publishing,"New York","New York"
+FSLR,"First Solar Inc","Information Technology",Semiconductors,Tempe,Arizona
+FTI,"FMC Technologies Inc.",Energy,"Oil & Gas Equipment & Services",Houston,Texas
+FTR,"Frontier Communications","Telecommunications Services","Integrated Telecommunications Services",Stamford,Connecticut
+GAS,"AGL Resources Inc.",Utilities,"Gas Utilities",Atlanta,Georgia
+GD,"General Dynamics",Industrials,"Aerospace & Defense","Falls Church",Virginia
+GE,"General Electric",Industrials,"Industrial Conglomerates",Fairfield,Connecticut
+GGP,"General Growth Properties Inc.",Financials,REITs,Chicago,Illinois
+GILD,"Gilead Sciences","Health Care",Biotechnology,"Foster City",California
+GIS,"General Mills","Consumer Staples","Packaged Foods & Meats","Golden Valley",Minnesota
+GLW,"Corning Inc.",Industrials,"Construction & Engineering",Corning,"New York"
+GM,"General Motors","Consumer Discretionary","Automobile Manufacturers",Detroit,Michigan
+GMCR,"Keurig Green Mountain","Consumer Staples","Packaged Foods & Meats",Waterbury,Vermont
+GME,"GameStop Corp.","Consumer Discretionary","Computer & Electronics Retail",Grapevine,Texas
+GOOG,"Alphabet Inc Class C","Information Technology","Internet Software & Services","Mountain View",California
+GOOGL,"Alphabet Inc Class A","Information Technology","Internet Software & Services","Mountain View",California
+GPC,"Genuine Parts","Consumer Discretionary","Specialty Stores",Atlanta,Georgia
+GPS,"Gap (The)","Consumer Discretionary","Apparel Retail","San Francisco",California
+GRMN,"Garmin Ltd.","Consumer Discretionary","Consumer Electronics",Schaffhausen,Switzerland
+GS,"Goldman Sachs Group",Financials,"Investment Banking & Brokerage","New York","New York"
+GT,"Goodyear Tire & Rubber","Consumer Discretionary","Tires & Rubber",Akron,Ohio
+GWW,"Grainger (W.W.) Inc.",Industrials,"Industrial Materials","Lake Forest",Illinois
+HAL,"Halliburton Co.",Energy,"Oil & Gas Equipment & Services",Houston,Texas
+HAR,"Harman Int'l Industries","Consumer Discretionary","Consumer Electronics",Stamford,Connecticut
+HAS,"Hasbro Inc.","Consumer Discretionary","Leisure Products",Pawtucket,"Rhode Island"
+HBAN,"Huntington Bancshares",Financials,Banks,Columbus,Ohio
+HBI,"Hanesbrands Inc","Consumer Discretionary","Apparel, Accessories & Luxury Goods",Winston-Salem,"North Carolina"
+HCA,"HCA Holdings","Health Care","Health Care Facilities",Nashville,Tennessee
+HCN,"Welltower Inc.",Financials,REITs,Toledo,Ohio
+HCP,"HCP Inc.",Financials,REITs,"Long Beach",California
+HD,"Home Depot","Consumer Discretionary","Home Improvement Retail","Cobb County",Georgia
+HES,"Hess Corporation",Energy,"Integrated Oil & Gas","New York","New York"
+HIG,"Hartford Financial Svc.Gp.",Financials,"Property & Casualty Insurance",Hartford,Connecticut
+HOG,Harley-Davidson,"Consumer Discretionary","Motorcycle Manufacturers",Milwaukee,Wisconsin
+HON,"Honeywell Int'l Inc.",Industrials,"Industrial Conglomerates",Morristown,"New Jersey"
+HOT,"Starwood Hotels & Resorts","Consumer Discretionary","Hotels, Resorts & Cruise Lines","White Plains","New York"
+HP,"Helmerich & Payne",Energy,"Oil & Gas Drilling",Tulsa,Oklahoma
+HPE,"Hewlett Packard Enterprise","Information Technology","Technology Hardware, Storage & Peripherals","Palo Alto",California
+HPQ,"HP Inc.","Information Technology","Computer Hardware","Palo Alto",California
+HRB,"Block H&R",Financials,"Consumer Finance","Kansas City",Missouri
+HRL,"Hormel Foods Corp.","Consumer Staples","Packaged Foods & Meats",Austin,Minnesota
+HRS,"Harris Corporation","Information Technology","Telecommunications Equipment",Melbourne,Florida
+HSIC,"Henry Schein","Health Care","Health Care Distributors & Services",Melville,"New York"
+HST,"Host Hotels & Resorts",Financials,REITs,Bethesda,Maryland
+HSY,"The Hershey Company","Consumer Staples","Packaged Foods & Meats",Hershey,Pennsylvania
+HUM,"Humana Inc.","Health Care","Managed Health Care",Louisville,Kentucky
+IBM,"International Bus. Machines","Information Technology","IT Consulting & Services",Armonk,"New York"
+ICE,"Intercontinental Exchange",Financials,"Diversified Financial Services",Atlanta,Georgia
+IFF,"Intl Flavors & Fragrances",Materials,"Specialty Chemicals","New York","New York"
+ILMN,"Illumina Inc","Health Care","Life Sciences Tools & Services","San Diego",California
+INTC,"Intel Corp.","Information Technology",Semiconductors,"Santa Clara",California
+INTU,"Intuit Inc.","Information Technology","Internet Software & Services","Mountain View",California
+IP,"International Paper",Materials,"Paper Products",Memphis,Tennessee
+IPG,"Interpublic Group","Consumer Discretionary",Advertising,"New York","New York"
+IR,"Ingersoll-Rand PLC",Industrials,"Industrial Conglomerates",Dublin,Ireland
+IRM,"Iron Mountain Incorporated",Industrials,"Data Processing Services",Boston,Massachusetts
+ISRG,"Intuitive Surgical Inc.","Health Care","Health Care Equipment & Services",Sunnyvale,California
+ITW,"Illinois Tool Works",Industrials,"Industrial Machinery",Glenview,Illinois
+IVZ,"Invesco Ltd.",Financials,"Asset Management & Custody Banks",Atlanta,Georgia
+JBHT,"J. B. Hunt Transport Services",Industrials,Trucking,Lowell,Arkansas
+JCI,"Johnson Controls","Consumer Discretionary","Auto Parts & Equipment",Milwaukee,Wisconsin
+JEC,"Jacobs Engineering Group",Industrials,"Industrial Conglomerates",Pasadena,California
+JNJ,"Johnson & Johnson","Health Care","Health Care Equipment & Services","New Brunswick","New Jersey"
+JNPR,"Juniper Networks","Information Technology","Networking Equipment",Sunnyvale,California
+JPM,"JPMorgan Chase & Co.",Financials,Banks,"New York","New York"
+JWN,Nordstrom,"Consumer Discretionary","Department Stores",Seattle,Washington
+K,"Kellogg Co.","Consumer Staples","Packaged Foods & Meats","Battle Creek",Michigan
+KEY,KeyCorp,Financials,Banks,Cleveland,Ohio
+KHC,"Kraft Heinz Co","Consumer Staples","Packaged Foods & Meats",Northfield,Illinois
+KIM,"Kimco Realty",Financials,REITs,"New Hyde Park","New York"
+KLAC,"KLA-Tencor Corp.","Information Technology","Semiconductor Equipment",Milpitas,California
+KMB,Kimberly-Clark,"Consumer Staples","Household Products",Irving,Texas
+KMI,"Kinder Morgan",Energy,"Oil & Gas Refining & Marketing & Transportation",Houston,Texas
+KMX,"Carmax Inc","Consumer Discretionary","Specialty Stores",Richmond,Virginia
+KO,"The Coca Cola Company","Consumer Staples","Soft Drinks",Atlanta,Georgia
+KORS,"Michael Kors Holdings","Consumer Discretionary","Apparel, Accessories & Luxury Goods","New York","New York"
+KR,"Kroger Co.","Consumer Staples","Food Retail",Cincinnati,Ohio
+KSS,"Kohl's Corp.","Consumer Discretionary","General Merchandise Stores","Menomonee Falls",Wisconsin
+KSU,"Kansas City Southern",Industrials,Railroads,"Kansas City",Missouri
+L,"Loews Corp.",Financials,"Multi-Sector Holdings","New York","New York"
+LB,"L Brands Inc.","Consumer Discretionary","Apparel Retail",Columbus,Ohio
+LEG,"Leggett & Platt",Industrials,"Industrial Conglomerates",Carthage,Missouri
+LEN,"Lennar Corp.","Consumer Discretionary",Homebuilding,Miami,Florida
+LH,"Laboratory Corp. of America Holding","Health Care","Health Care Facilities",Burlington,"North Carolina"
+LLL,"L-3 Communications Holdings",Industrials,"Industrial Conglomerates","New York","New York"
+LLTC,"Linear Technology Corp.","Information Technology",Semiconductors,Milpitas,California
+LLY,"Lilly (Eli) & Co.","Health Care",Pharmaceuticals,Indianapolis,Indiana
+LM,"Legg Mason",Financials,"Asset Management & Custody Banks",Baltimore,Maryland
+LMT,"Lockheed Martin Corp.",Industrials,"Aerospace & Defense",Bethesda,Maryland
+LNC,"Lincoln National",Financials,"Multi-line Insurance",Radnor,Pennsylvania
+LOW,"Lowe's Cos.","Consumer Discretionary","Home Improvement Retail",Mooresville,"North Carolina"
+LRCX,"Lam Research","Information Technology","Semiconductor Equipment",Fremont,California
+LUK,"Leucadia National Corp.",Financials,"Multi-Sector Holdings","New York","New York"
+LUV,"Southwest Airlines",Industrials,Airlines,Dallas,Texas
+LVLT,"Level 3 Communications","Telecommunications Services","Alternative Carriers",Broomfield,Colorado
+LYB,LyondellBasell,Materials,"Diversified Chemicals",Rotterdam,Netherlands
+M,"Macy's Inc.","Consumer Discretionary","Department Stores",Cincinnati,Ohio
+MA,"Mastercard Inc.","Information Technology","Internet Software & Services",Harrison,"New York"
+MAC,Macerich,Financials,"Retail REITs","Santa Monica",California
+MAR,"Marriott Int'l.","Consumer Discretionary","Hotels, Resorts & Cruise Lines",Bethesda,Maryland
+MAS,"Masco Corp.",Industrials,"Building Products",Taylor,Michigan
+MAT,"Mattel Inc.","Consumer Discretionary","Leisure Products","El Segundo",California
+MCD,"McDonald's Corp.","Consumer Discretionary",Restaurants,"Oak Brook",Illinois
+MCHP,"Microchip Technology","Information Technology",Semiconductors,Chandler,Arizona
+MCK,"McKesson Corp.","Health Care","Health Care Distributors & Services","San Francisco",California
+MCO,"Moody's Corp",Financials,"Diversified Financial Services","New York","New York"
+MDLZ,"Mondelez International","Consumer Staples","Packaged Foods & Meats",Northfield,Illinois
+MDT,"Medtronic plc","Health Care","Health Care Equipment & Services",Dublin,Ireland
+MET,"MetLife Inc.",Financials,"Life & Health Insurance","New York","New York"
+MHFI,"McGraw Hill Financial",Financials,"Diversified Financial Services","New York","New York"
+MHK,"Mohawk Industries","Consumer Discretionary","Home Furnishings",Amsterdam,"New York"
+MJN,"Mead Johnson","Consumer Staples","Packaged Foods & Meats",Glenview,Illinois
+MKC,"McCormick & Co.","Consumer Staples","Packaged Foods & Meats",Sparks,Maryland
+MLM,"Martin Marietta Materials",Materials,"Construction Materials",Raleigh,"North Carolina"
+MMC,"Marsh & McLennan",Financials,"Insurance Brokers","New York","New York"
+MMM,"3M Company",Industrials,"Industrial Conglomerates","St. Paul",Minnesota
+MNK,"Mallinckrodt Plc","Health Care",Pharmaceuticals,Dublin,Ireland
+MNST,"Monster Beverage","Consumer Staples","Soft Drinks",Corona,California
+MO,"Altria Group Inc","Consumer Staples",Tobacco,Richmond,Virginia
+MON,"Monsanto Co.",Materials,"Fertilizers & Agricultural Chemicals","Creve Coeur",Missouri
+MOS,"The Mosaic Company",Materials,"Fertilizers & Agricultural Chemicals",Plymouth,Minnesota
+MPC,"Marathon Petroleum",Energy,"Oil & Gas Refining & Marketing & Transportation",Findlay,Ohio
+MRK,"Merck & Co.","Health Care",Pharmaceuticals,"Whitehouse Station","New Jersey"
+MRO,"Marathon Oil Corp.",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+MS,"Morgan Stanley",Financials,"Investment Banking & Brokerage","New York","New York"
+MSFT,"Microsoft Corp.","Information Technology","Systems Software",Redmond,Washington
+MSI,"Motorola Solutions Inc.","Information Technology","Telecommunications Equipment",Schaumburg,Illinois
+MTB,"M&T Bank Corp.",Financials,Banks,Buffalo,"New York"
+MU,"Micron Technology","Information Technology",Semiconductors,Boise,Idaho
+MUR,"Murphy Oil",Energy,"Integrated Oil & Gas","El Dorado",Arkansas
+MYL,"Mylan N.V.","Health Care",Pharmaceuticals,Amsterdam,Netherlands
+NAVI,Navient,Financials,"Consumer Finance",Newark,Delaware
+NBL,"Noble Energy Inc",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+NDAQ,"NASDAQ OMX Group",Financials,"Diversified Financial Services","New York","New York"
+NEE,"NextEra Energy",Utilities,MultiUtilities,"Juno Beach",Florida
+NEM,"Newmont Mining Corp. (Hldg. Co.)",Materials,Gold,Denver,Colorado
+NFLX,"Netflix Inc.","Information Technology","Internet Software & Services","Los Gatos",California
+NFX,"Newfield Exploration Co",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+NI,"NiSource Inc.",Utilities,MultiUtilities,Merrillville,Indiana
+NKE,Nike,"Consumer Discretionary","Apparel, Accessories & Luxury Goods","Washington County",Oregon
+NLSN,"Nielsen Holdings",Industrials,"Research & Consulting Services","New York","New York"
+NOC,"Northrop Grumman Corp.",Industrials,"Aerospace & Defense","West Falls Church",Virginia
+NOV,"National Oilwell Varco Inc.",Energy,"Oil & Gas Equipment & Services",Houston,Texas
+NRG,"NRG Energy",Utilities,"Independent Power Producers & Energy Traders",Princeton,"New Jersey"
+NSC,"Norfolk Southern Corp.",Industrials,Railroads,Norfolk,Virginia
+NTAP,NetApp,"Information Technology","Internet Software & Services",Sunnyvale,California
+NTRS,"Northern Trust Corp.",Financials,"Asset Management & Custody Banks",Chicago,Illinois
+NUE,"Nucor Corp.",Materials,Steel,Charlotte,"North Carolina"
+NVDA,"Nvidia Corporation","Information Technology",Semiconductors,"Santa Clara",California
+NWL,"Newell Rubbermaid Co.","Consumer Discretionary","Housewares & Specialties","Sandy Springs",Georgia
+NWS,"News Corp. Class B","Consumer Discretionary",Publishing,"New York","New York"
+NWSA,"News Corp. Class A","Consumer Discretionary",Publishing,"New York","New York"
+O,"Realty Income Corporation",Financials,REITs,"San Diego",California
+OI,"Owens-Illinois Inc",Materials,"Metal & Glass Containers",Perrysburg,Ohio
+OKE,ONEOK,Energy,"Oil & Gas Exploration & Production",Tulsa,Oklahoma
+OMC,"Omnicom Group","Consumer Discretionary",Advertising,"New York","New York"
+ORCL,"Oracle Corp.","Information Technology","Application Software","Redwood Shores",California
+ORLY,"O'Reilly Automotive","Consumer Discretionary","Specialty Stores",Springfield,Missouri
+OXY,"Occidental Petroleum",Energy,"Oil & Gas Exploration & Production","Los Angeles",California
+PAYX,"Paychex Inc.","Information Technology","Internet Software & Services",Penfield,"New York"
+PBCT,"People's United Financial",Financials,"Thrifts & Mortgage Finance",Bridgeport,Connecticut
+PBI,Pitney-Bowes,Industrials,"Office Services & Supplies",Stamford,Connecticut
+PCAR,"PACCAR Inc.",Industrials,"Construction & Farm Machinery & Heavy Trucks",Bellevue,Washington
+PCG,"PG&E Corp.",Utilities,MultiUtilities,"San Francisco",California
+PCL,"Plum Creek Timber Co.",Financials,REITs,Seattle,Washington
+PCLN,"Priceline.com Inc","Consumer Discretionary","Hotels, Resorts & Cruise Lines",Norwalk,Connecticut
+PCP,"Precision Castparts",Industrials,"Industrial Conglomerates",Portland,Oregon
+PDCO,"Patterson Companies","Health Care","Health Care Supplies","St. Paul",Minnesota
+PEG,"Public Serv. Enterprise Inc.",Utilities,"Electric Utilities",Newark,"New Jersey"
+PEP,"PepsiCo Inc.","Consumer Staples","Soft Drinks",Purchase,"New York"
+PFE,"Pfizer Inc.","Health Care",Pharmaceuticals,"New York","New York"
+PFG,"Principal Financial Group",Financials,"Diversified Financial Services","Des Moines",Iowa
+PG,"Procter & Gamble","Consumer Staples","Personal Products",Cincinnati,Ohio
+PGR,"Progressive Corp.",Financials,"Property & Casualty Insurance","Mayfield Village",Ohio
+PH,Parker-Hannifin,Industrials,"Industrial Conglomerates",Cleveland,Ohio
+PHM,"Pulte Homes Inc.","Consumer Discretionary",Homebuilding,Atlanta,Georgia
+PKI,PerkinElmer,"Health Care","Health Care Equipment & Services",Waltham,Massachusetts
+PLD,Prologis,Financials,"Diversified Financial Services","San Francisco",California
+PM,"Philip Morris International","Consumer Staples",Tobacco,"New York","New York"
+PNC,"PNC Financial Services",Financials,Banks,Pittsburgh,Pennsylvania
+PNR,"Pentair Ltd.",Industrials,"Industrial Conglomerates",Worsley,"United Kingdom"
+PNW,"Pinnacle West Capital",Utilities,MultiUtilities,Phoenix,Arizona
+POM,"Pepco Holdings Inc.",Utilities,"Electric Utilities",Washington,"The District of Columbia"
+PPG,"PPG Industries",Materials,"Diversified Chemicals",Pittsburgh,Pennsylvania
+PPL,"PPL Corp.",Utilities,"Electric Utilities",Allentown,Pennsylvania
+PRGO,Perrigo,"Health Care",Pharmaceuticals,Dublin,Ireland
+PRU,"Prudential Financial",Financials,"Diversified Financial Services",Newark,"New Jersey"
+PSA,"Public Storage",Financials,REITs,Glendale,California
+PSX,"Phillips 66",Energy,"Oil & Gas Refining & Marketing & Transportation",Houston,Texas
+PVH,"PVH Corp.","Consumer Discretionary","Apparel, Accessories & Luxury Goods","New York","New York"
+PWR,"Quanta Services Inc.",Industrials,"Industrial Conglomerates",Houston,Texas
+PX,"Praxair Inc.",Materials,"Industrial Gases",Danbury,Connecticut
+PXD,"Pioneer Natural Resources",Energy,"Oil & Gas Exploration & Production",Irving,Texas
+PYPL,PayPal,"Information Technology","Data Processing & Outsourced Services","Palo Alto",California
+QCOM,"QUALCOMM Inc.","Information Technology",Semiconductors,"San Diego",California
+QRVO,Qorvo,"Information Technology",Semiconductors,Hillsboro,Oregon
+R,"Ryder System",Industrials,"Industrial Conglomerates",Miami,Florida
+RAI,"Reynolds American Inc.","Consumer Staples",Tobacco,Winston-Salem,"North Carolina"
+RCL,"Royal Caribbean Cruises Ltd","Consumer Discretionary","Hotels, Resorts & Cruise Lines",Miami,Florida
+REGN,Regeneron,"Health Care",Biotechnology,Tarrytown,"New York"
+RF,"Regions Financial Corp.",Financials,"Diversified Financial Services",Birmingham,Alabama
+RHI,"Robert Half International",Industrials,"Human Resource & Employment Services","Menlo Park",California
+RHT,"Red Hat Inc.","Information Technology","Systems Software",Raleigh,"North Carolina"
+RIG,Transocean,Energy,"Oil & Gas Drilling",Vernier,Switzerland
+RL,"Polo Ralph Lauren Corp.","Consumer Discretionary","Apparel, Accessories & Luxury Goods","New York","New York"
+ROK,"Rockwell Automation Inc.",Industrials,"Industrial Conglomerates",Milwaukee,Wisconsin
+ROP,"Roper Industries",Industrials,"Industrial Conglomerates",Sarasota,Florida
+ROST,"Ross Stores","Consumer Discretionary","Apparel Retail",Pleasanton,California
+RRC,"Range Resources Corp.",Energy,"Oil & Gas Exploration & Production","Fort Worth",Texas
+RSG,"Republic Services Inc",Industrials,"Industrial Conglomerates",Phoenix,Arizona
+RTN,"Raytheon Co.",Industrials,"Aerospace & Defense",Waltham,Massachusetts
+SBUX,"Starbucks Corp.","Consumer Discretionary",Restaurants,Seattle,Washington
+SCG,"SCANA Corp",Utilities,MultiUtilities,Cayce,"South Carolina"
+SCHW,"Charles Schwab Corporation",Financials,"Investment Banking & Brokerage","San Francisco",California
+SE,"Spectra Energy Corp.",Energy,"Oil & Gas Refining & Marketing & Transportation",Houston,Texas
+SEE,"Sealed Air Corp.(New)",Materials,"Paper Packaging","Elmwood Park","New Jersey"
+SHW,Sherwin-Williams,Materials,"Specialty Chemicals",Cleveland,Ohio
+SIG,"Signet Jewelers","Consumer Discretionary","Specialty Stores",Hamilton,Bermuda
+SJM,"Smucker (J.M.)","Consumer Staples","Packaged Foods & Meats",Orrville,Ohio
+SLB,"Schlumberger Ltd.",Energy,"Oil & Gas Equipment & Services","Cura�ao","Kingdom of the Netherlands"
+SLG,"SL Green Realty",Financials,"Office REITs","New York","New York"
+SNA,"Snap-On Inc.","Consumer Discretionary","Household Appliances",Kenosha,Wisconsin
+SNDK,"SanDisk Corporation","Information Technology","Computer Storage & Peripherals",Milpitas,California
+SNI,"Scripps Networks Interactive Inc.","Consumer Discretionary","Broadcasting & Cable TV",Cincinnati,Ohio
+SO,"Southern Co.",Utilities,"Electric Utilities",Atlanta,Georgia
+SPG,"Simon Property Group Inc",Financials,REITs,Indianapolis,Indiana
+SPLS,"Staples Inc.","Consumer Discretionary","Specialty Stores",Framingham,Massachusetts
+SRCL,"Stericycle Inc",Industrials,"Industrial Conglomerates","Lake Forest",Illinois
+SRE,"Sempra Energy",Utilities,MultiUtilities,"San Diego",California
+STI,"SunTrust Banks",Financials,Banks,Atlanta,Georgia
+STJ,"St Jude Medical","Health Care","Health Care Equipment & Services","Little Canada",Minnesota
+STT,"State Street Corp.",Financials,"Diversified Financial Services",Boston,Massachusetts
+STX,"Seagate Technology","Information Technology","Computer Storage & Peripherals",Dublin,Ireland
+STZ,"Constellation Brands","Consumer Staples","Distillers & Vintners",Victor,"New York"
+SWK,"Stanley Black & Decker","Consumer Discretionary","Household Appliances","New Britain",Connecticut
+SWKS,"Skyworks Solutions","Information Technology",Semiconductors,Woburn,Massachusetts
+SWN,"Southwestern Energy",Energy,"Oil & Gas Exploration & Production",Houston,Texas
+SYF,"Synchrony Financial",Financials,"Consumer Finance",Stamford,Connecticut
+SYK,"Stryker Corp.","Health Care","Health Care Equipment & Services",Kalamazoo,Michigan
+SYMC,"Symantec Corp.","Information Technology","Application Software","Mountain View",California
+SYY,"Sysco Corp.","Consumer Staples","Food Distributors",Houston,Texas
+T,"AT&T Inc","Telecommunications Services","Integrated Telecommunications Services",Dallas,Texas
+TAP,"Molson Coors Brewing Company","Consumer Staples",Brewers,Denver,Colorado
+TDC,"Teradata Corp.","Information Technology","Application Software",Miamisburg,Ohio
+TE,"TECO Energy",Utilities,"Electric Utilities",Tampa,Florida
+TEL,"TE Connectivity Ltd.","Information Technology","Electronic Equipment & Instruments",Schaffhausen,Switzerland
+TGNA,Tegna,"Consumer Discretionary",Publishing,McLean,Virginia
+TGT,"Target Corp.","Consumer Discretionary","General Merchandise Stores",Minneapolis,Minnesota
+THC,"Tenet Healthcare Corp.","Health Care","Health Care Facilities",Dallas,Texas
+TIF,"Tiffany & Co.","Consumer Discretionary","Apparel, Accessories & Luxury Goods","New York","New York"
+TJX,"TJX Companies Inc.","Consumer Discretionary","Apparel Retail",Framingham,Massachusetts
+TMK,"Torchmark Corp.",Financials,"Life & Health Insurance",McKinney,Texas
+TMO,"Thermo Fisher Scientific","Health Care","Health Care Equipment & Services",Waltham,Massachusetts
+TRIP,TripAdvisor,"Consumer Discretionary","Internet Retail",Newton,Massachusetts
+TROW,"T. Rowe Price Group",Financials,"Diversified Financial Services",Baltimore,Maryland
+TRV,"The Travelers Companies Inc.",Financials,"Property & Casualty Insurance","New York","New York"
+TSCO,"Tractor Supply Company","Consumer Discretionary","Specialty Retail",Brentwood,Tennessee
+TSN,"Tyson Foods","Consumer Staples","Packaged Foods & Meats",Springdale,Arkansas
+TSO,"Tesoro Petroleum Co.",Energy,"Oil & Gas Refining & Marketing & Transportation","San Antonio",Texas
+TSS,"Total System Services","Information Technology","Internet Software & Services",Columbus,Georgia
+TWC,"Time Warner Cable Inc.","Consumer Discretionary","Broadcasting & Cable TV","New York","New York"
+TWX,"Time Warner Inc.","Consumer Discretionary","Broadcasting & Cable TV","New York","New York"
+TXN,"Texas Instruments","Information Technology",Semiconductors,Dallas,Texas
+TXT,"Textron Inc.",Industrials,"Industrial Conglomerates",Providence,"Rhode Island"
+TYC,"Tyco International",Industrials,"Industrial Conglomerates",Schaffhausen,Switzerland
+UA,"Under Armour","Consumer Discretionary","Apparel, Accessories & Luxury Goods",Baltimore,Maryland
+UAL,"United Continental Holdings",Industrials,Airlines,Chicago,Illinois
+UHS,"Universal Health Services, Inc.","Health Care","Health Care Facilities","King of Prussia",Pennsylvania
+UNH,"United Health Group Inc.","Health Care","Managed Health Care",Minnetonka,Minnesota
+UNM,"Unum Group",Financials,"Diversified Financial Services",Chattanooga,Tennessee
+UNP,"Union Pacific",Industrials,Railroads,Omaha,Nebraska
+UPS,"United Parcel Service",Industrials,"Air Freight & Logistics",Atlanta,Georgia
+URBN,"Urban Outfitters","Consumer Discretionary","Apparel Retail",Philadelphia,Pennsylvania
+URI,"United Rentals, Inc.",Industrials,"Trading Companies & Distributors",Stamford,Connecticut
+USB,"U.S. Bancorp",Financials,Banks,Minneapolis,Minnesota
+UTX,"United Technologies",Industrials,"Industrial Conglomerates",Hartford,Connecticut
+V,"Visa Inc.","Information Technology","Internet Software & Services","San Francisco",California
+VAR,"Varian Medical Systems","Health Care","Health Care Equipment & Services","Palo Alto",California
+VFC,"V.F. Corp.","Consumer Discretionary","Apparel, Accessories & Luxury Goods",Greensboro,"North Carolina"
+VIAB,"Viacom Inc.","Consumer Discretionary","Broadcasting & Cable TV","New York","New York"
+VLO,"Valero Energy",Energy,"Oil & Gas Refining & Marketing & Transportation","San Antonio",Texas
+VMC,"Vulcan Materials",Materials,"Construction Materials",Birmingham,Alabama
+VNO,"Vornado Realty Trust",Financials,REITs,"New York","New York"
+VRSK,"Verisk Analytics",Industrials,"Research & Consulting Services","Jersey City","New Jersey"
+VRSN,"Verisign Inc.","Information Technology","Internet Software & Services",Dulles,Virginia
+VRTX,"Vertex Pharmaceuticals Inc","Health Care",Biotechnology,Cambridge,Massachusetts
+VTR,"Ventas Inc",Financials,"Diversified Financial Services",Chicago,Illinois
+VZ,"Verizon Communications","Telecommunications Services","Integrated Telecommunications Services","New York","New York"
+WAT,"Waters Corporation","Health Care","Health Care Distributors & Services",Milford,Massachusetts
+WBA,"Walgreens Boots Alliance","Consumer Staples","Drug Retail",Deerfield,Illinois
+WDC,"Western Digital","Information Technology","Computer Storage & Peripherals",Irvine,California
+WEC,"Wisconsin Energy Corporation",Utilities,"Electric Utilities",Milwaukee,Wisconsin
+WFC,"Wells Fargo",Financials,Banks,"San Francisco",California
+WFM,"Whole Foods Market","Consumer Staples","Food Retail",Austin,Texas
+WHR,"Whirlpool Corp.","Consumer Discretionary","Household Appliances","Benton Harbor",Michigan
+WM,"Waste Management Inc.",Industrials,"Environmental Services",Houston,Texas
+WMB,"Williams Cos.",Energy,"Oil & Gas Exploration & Production",Tulsa,Oklahoma
+WMT,"Wal-Mart Stores","Consumer Staples","Hypermarkets & Super Centers",Bentonville,Arkansas
+WRK,"Westrock Co",Materials,"Paper Packaging",Richmond,Virginia
+WU,"Western Union Co","Information Technology","Internet Software & Services",Englewood,Colorado
+WY,"Weyerhaeuser Corp.",Financials,REITs,"Federal Way",Washington
+WYN,"Wyndham Worldwide","Consumer Discretionary","Hotels, Resorts & Cruise Lines",Parsippany,"New Jersey"
+WYNN,"Wynn Resorts Ltd","Consumer Discretionary","Casinos & Gaming","Las Vegas",Nevada
+XEC,"Cimarex Energy",Energy,"Oil & Gas Exploration & Production",Denver,Colorado
+XEL,"Xcel Energy Inc",Utilities,MultiUtilities,Minneapolis,Minnesota
+XL,"XL Capital",Financials,"Property & Casualty Insurance",Hamilton,Bermuda
+XLNX,"Xilinx Inc","Information Technology",Semiconductors,"San Jose",California
+XOM,"Exxon Mobil Corp.",Energy,"Integrated Oil & Gas",Irving,Texas
+XRAY,"Dentsply International","Health Care","Health Care Supplies",York,Pennsylvania
+XRX,"Xerox Corp.","Information Technology","IT Consulting & Services",Norwalk,Connecticut
+XYL,"Xylem Inc.",Industrials,"Industrial Conglomerates","White Plains","New York"
+YHOO,"Yahoo Inc.","Information Technology","Internet Software & Services",Sunnyvale,California
+YUM,"Yum! Brands Inc","Consumer Discretionary",Restaurants,Louisville,Kentucky
+ZBH,"Zimmer Biomet Holdings","Health Care","Health Care Equipment & Services",Warsaw,Indiana
+ZION,"Zions Bancorp",Financials,Banks,"Salt Lake City",Utah
+ZTS,Zoetis,"Health Care",Pharmaceuticals,"Florham Park","New Jersey"
