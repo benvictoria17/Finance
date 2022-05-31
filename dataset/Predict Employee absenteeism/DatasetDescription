@@ -1,0 +1,51 @@
+
+Considerations:
+-Employees are only allowed to participate once a day.
+-An employee can give either a like or a dislike to a comment but not both. 
+-On some companies, they are allow to reply to comments of their peers.
+-We don't have demographics on Happyforce: so no hiring date or turnover date is available on the dataset. Only account deletion date is available.
+
+
+Company.csv: A listing of all companies available on the dataset
+
+ -companyAlias: Id of the company on the dataset.
+ -creationDate: Creation date of the account.
+ -type: Industry type.
+ -status: Status of the account (ACTIVE or PAUSED/BLOCKED => no more a customer of HF).
+
+ Votes.csv: A listing of all votes registered on Happyforce to the question "How are you today?" from the employees on the dataset.
+
+ -employee: Id of the employee on the dataset
+ -companyAlias: Id of the company on the dataset.
+ -voteDate:When the vote was been posted.
+ -vote: Which was the vote of the employee (de 1 a 4: Very Bad, Bad, Good, Very Good)
+
+ LastParticipationExists.csv: A listing of all employees of the companies on the dataset. Their status on the system and some useful information.
+
+ -employee: Id of the employee on the dataset
+ -companyAlias: Id of the company on the dataset.
+ -numVotes: Number of votes emited by this employee.
+ -lastParticipationDate: Date of the last participation on HF.
+ -stillExists: Has been this employee been removed from the HF?
+ -deletedOn: When it was removed from Happyforce (Note: not all the entries have these information since that feature was added later)
+ 
+Comments.csv: A listing of all coments registered by the employees on the dataset.
+
+-employee: Id of the employee on the dataset
+-companyAlias: Id of the company on the dataset.
+-commentId: Id of the comment on the dataset.
+-commentLenght: Length of the comment
+-likes: Number of "agrees" received
+-dislikes: Number of "disagrees" received
+-commentDate: Date of the comment
+-feedbackType: When the employees submit a comment, they have to chose between 4 categories: INFORMATION, CONGRATULATION, SUGGESTION or SOMETHING IS WRONG (note: not all the entries have these information since that feature was added later)
+
+
+CommentInteractions.csv:
+
+-employee: Id of the employee on the dataset performing the interaction.
+-companyAlias: Id of the company on the dataset.
+-commentId: Id of the comment on the dataset.
+-interaction: Which Interaction is performed -1 -> disagree / 1 agree / 2 reply.
+-actionDate: When the interaction was performed.
+
