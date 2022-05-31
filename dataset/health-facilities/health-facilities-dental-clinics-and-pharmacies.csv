@@ -1,0 +1,67 @@
+year,institution_type,sector,no_of_facilities
+2009,Dental Clinics,Total,822
+2009,Dental Clinics,Public,240
+2009,Dental Clinics,Private,582
+2009,Pharmacies,Total,211
+2009,Pharmacies,Public,58
+2009,Pharmacies,Private,153
+2010,Dental Clinics,Total,850
+2010,Dental Clinics,Public,240
+2010,Dental Clinics,Private,610
+2010,Pharmacies,Total,226
+2010,Pharmacies,Public,58
+2010,Pharmacies,Private,168
+2011,Dental Clinics,Total,872
+2011,Dental Clinics,Public,241
+2011,Dental Clinics,Private,631
+2011,Pharmacies,Total,249
+2011,Pharmacies,Public,56
+2011,Pharmacies,Private,193
+2012,Dental Clinics,Total,900
+2012,Dental Clinics,Public,240
+2012,Dental Clinics,Private,660
+2012,Pharmacies,Total,245
+2012,Pharmacies,Public,50
+2012,Pharmacies,Private,195
+2013,Dental Clinics,Total,930
+2013,Dental Clinics,Public,236
+2013,Dental Clinics,Private,694
+2013,Pharmacies,Total,247
+2013,Pharmacies,Public,51
+2013,Pharmacies,Private,196
+2014,Dental Clinics,Total,970
+2014,Dental Clinics,Public,248
+2014,Dental Clinics,Private,722
+2014,Pharmacies,Total,253
+2014,Pharmacies,Public,63
+2014,Pharmacies,Private,190
+2015,Dental Clinics,Total,1040
+2015,Dental Clinics,Public,248
+2015,Dental Clinics,Private,792
+2015,Pharmacies,Total,232
+2015,Pharmacies,Public,62
+2015,Pharmacies,Private,170
+2016,Dental Clinics,Total,1088
+2016,Dental Clinics,Public,253
+2016,Dental Clinics,Private,835
+2016,Pharmacies,Total,235
+2016,Pharmacies,Public,62
+2016,Pharmacies,Private,173
+2017,Dental Clinics,Total,1115
+2017,Dental Clinics,Public,252
+2017,Dental Clinics,Private,863
+2017,Pharmacies,Total,243
+2017,Pharmacies,Public,62
+2017,Pharmacies,Private,181
+2018,Dental Clinics,Total,1122
+2018,Dental Clinics,Public,246
+2018,Dental Clinics,Private,876
+2018,Pharmacies,Total,258
+2018,Pharmacies,Public,68
+2018,Pharmacies,Private,190
+2019,Dental Clinics,Total,1097
+2019,Dental Clinics,Public,246
+2019,Dental Clinics,Private,851
+2019,Pharmacies,Total,256
+2019,Pharmacies,Public,67
+2019,Pharmacies,Private,189

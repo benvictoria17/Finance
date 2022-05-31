@@ -1,0 +1,166 @@
+year,institution_type,facility_type_a,public_private,no_of_facilities,no_beds
+2009,Hospital,Acute,Public,7,6416
+2009,Hospital,Acute,Not-for-Profit,1,303
+2009,Hospital,Acute,Private,6,1570
+2009,Hospital,Psychiatric Hospitals,Public,1,2040
+2009,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2009,Hospital,Psychiatric Hospitals,Private,0,0
+2009,Hospital,Community Hospitals,Public,0,0
+2009,Hospital,Community Hospitals,Not-for-Profit,5,819
+2009,Hospital,Community Hospitals,Private,1,58
+2009,Residential Long-Term,Nursing Homes,Public,0,0
+2009,Residential Long-Term,Nursing Homes,Not-for-Profit,30,6262
+2009,Residential Long-Term,Nursing Homes,Private,30,3180
+2009,Residential Long-Term,Inpatient Hospices,Public,0,0
+2009,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,129
+2009,Residential Long-Term,Inpatient Hospices,Private,0,0
+2010,Hospital,Acute,Public,8,6871
+2010,Hospital,Acute,Not-for-Profit,1,283
+2010,Hospital,Acute,Private,6,1095
+2010,Hospital,Psychiatric Hospitals,Public,1,2010
+2010,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2010,Hospital,Psychiatric Hospitals,Private,0,0
+2010,Hospital,Community Hospitals,Public,0,0
+2010,Hospital,Community Hospitals,Not-for-Profit,5,818
+2010,Hospital,Community Hospitals,Private,1,24
+2010,Residential Long-Term,Nursing Homes,Public,0,0
+2010,Residential Long-Term,Nursing Homes,Not-for-Profit,30,6293
+2010,Residential Long-Term,Nursing Homes,Private,32,3258
+2010,Residential Long-Term,Inpatient Hospices,Public,0,0
+2010,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,123
+2010,Residential Long-Term,Inpatient Hospices,Private,0,0
+2011,Hospital,Acute,Public,8,6925
+2011,Hospital,Acute,Not-for-Profit,1,283
+2011,Hospital,Acute,Private,6,1096
+2011,Hospital,Psychiatric Hospitals,Public,1,2010
+2011,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2011,Hospital,Psychiatric Hospitals,Private,0,0
+2011,Hospital,Community Hospitals,Public,1,100
+2011,Hospital,Community Hospitals,Not-for-Profit,4,680
+2011,Hospital,Community Hospitals,Private,1,20
+2011,Residential Long-Term,Nursing Homes,Public,1,250
+2011,Residential Long-Term,Nursing Homes,Not-for-Profit,31,6137
+2011,Residential Long-Term,Nursing Homes,Private,32,3303
+2011,Residential Long-Term,Inpatient Hospices,Public,0,32
+2011,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101
+2011,Residential Long-Term,Inpatient Hospices,Private,0,0
+2012,Hospital,Acute,Public,8,7170
+2012,Hospital,Acute,Not-for-Profit,1,283
+2012,Hospital,Acute,Private,8,1272
+2012,Hospital,Psychiatric Hospitals,Public,1,2010
+2012,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2012,Hospital,Psychiatric Hospitals,Private,0,0
+2012,Hospital,Community Hospitals,Public,1,100
+2012,Hospital,Community Hospitals,Not-for-Profit,4,722
+2012,Hospital,Community Hospitals,Private,1,20
+2012,Residential Long-Term,Nursing Homes,Public,1,202
+2012,Residential Long-Term,Nursing Homes,Not-for-Profit,31,6119
+2012,Residential Long-Term,Nursing Homes,Private,32,3400
+2012,Residential Long-Term,Inpatient Hospices,Public,0,48
+2012,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101
+2012,Residential Long-Term,Inpatient Hospices,Private,0,0
+2013,Hospital,Acute,Public,8,7377
+2013,Hospital,Acute,Not-for-Profit,1,283
+2013,Hospital,Acute,Private,8,1279
+2013,Hospital,Psychiatric Hospitals,Public,1,2010
+2013,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2013,Hospital,Psychiatric Hospitals,Private,0,0
+2013,Hospital,Community Hospitals,Public,1,110
+2013,Hospital,Community Hospitals,Not-for-Profit,4,722
+2013,Hospital,Community Hospitals,Private,1,20
+2013,Residential Long-Term,Nursing Homes,Public,5,1230
+2013,Residential Long-Term,Nursing Homes,Not-for-Profit,28,5924
+2013,Residential Long-Term,Nursing Homes,Private,33,3684
+2013,Residential Long-Term,Inpatient Hospices,Public,0,48
+2013,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101
+2013,Residential Long-Term,Inpatient Hospices,Private,0,0
+2014,Hospital,Acute,Public,8,7652
+2014,Hospital,Acute,Not-for-Profit,1,283
+2014,Hospital,Acute,Private,9,1327
+2014,Hospital,Psychiatric Hospitals,Public,1,1950
+2014,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2014,Hospital,Psychiatric Hospitals,Private,0,0
+2014,Hospital,Community Hospitals,Public,1,142
+2014,Hospital,Community Hospitals,Not-for-Profit,4,905
+2014,Hospital,Community Hospitals,Private,1,18
+2014,Residential Long-Term,Nursing Homes,Public,6,1372
+2014,Residential Long-Term,Nursing Homes,Not-for-Profit,27,6021
+2014,Residential Long-Term,Nursing Homes,Private,32,3575
+2014,Residential Long-Term,Inpatient Hospices,Public,0,40
+2014,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101
+2014,Residential Long-Term,Inpatient Hospices,Private,0,0
+2015,Hospital,Acute,Public,9,8128
+2015,Hospital,Acute,Not-for-Profit,1,316
+2015,Hospital,Acute,Private,9,1400
+2015,Hospital,Psychiatric Hospitals,Public,1,1950
+2015,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2015,Hospital,Psychiatric Hospitals,Private,0,0
+2015,Hospital,Community Hospitals,Public,3,503
+2015,Hospital,Community Hospitals,Not-for-Profit,4,961
+2015,Hospital,Community Hospitals,Private,0,0
+2015,Residential Long-Term,Nursing Homes,Public,11,2488
+2015,Residential Long-Term,Nursing Homes,Not-for-Profit,26,5802
+2015,Residential Long-Term,Nursing Homes,Private,34,3895
+2015,Residential Long-Term,Inpatient Hospices,Public,0,40
+2015,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101
+2015,Residential Long-Term,Inpatient Hospices,Private,0,0
+2016,Hospital,Acute,Public,9,8561
+2016,Hospital,Acute,Not-for-Profit,1,316
+2016,Hospital,Acute,Private,9,1441
+2016,Hospital,Psychiatric Hospitals,Public,1,1950
+2016,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2016,Hospital,Psychiatric Hospitals,Private,0,0
+2016,Hospital,Community Hospitals,Public,3,690
+2016,Hospital,Community Hospitals,Not-for-Profit,4,961
+2016,Hospital,Community Hospitals,Private,1,12
+2016,Residential Long-Term,Nursing Homes,Public,13,3110
+2016,Residential Long-Term,Nursing Homes,Not-for-Profit,26,6058
+2016,Residential Long-Term,Nursing Homes,Private,30,3854
+2016,Residential Long-Term,Inpatient Hospices,Public,0,24
+2016,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,149
+2016,Residential Long-Term,Inpatient Hospices,Private,0,0
+2017,Hospital,Acute,Public,9,8623
+2017,Hospital,Acute,Not-for-Profit,1,271
+2017,Hospital,Acute,Private,8,1446
+2017,Hospital,Psychiatric Hospitals,Public,1,1950
+2017,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2017,Hospital,Psychiatric Hospitals,Private,0,0
+2017,Hospital,Community Hospitals,Public,3,690
+2017,Hospital,Community Hospitals,Not-for-Profit,4,969
+2017,Hospital,Community Hospitals,Private,1,4
+2017,Residential Long-Term,Nursing Homes,Public,20,5281
+2017,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5872
+2017,Residential Long-Term,Nursing Homes,Private,30,3765
+2017,Residential Long-Term,Inpatient Hospices,Public,0,24
+2017,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155
+2017,Residential Long-Term,Inpatient Hospices,Private,0,0
+2018,Hospital,Acute,Public,10,9071
+2018,Hospital,Acute,Not-for-Profit,1,273
+2018,Hospital,Acute,Private,8,1482
+2018,Hospital,Psychiatric Hospitals,Public,1,1950
+2018,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2018,Hospital,Psychiatric Hospitals,Private,0,0
+2018,Hospital,Community Hospitals,Public,4,799
+2018,Hospital,Community Hospitals,Not-for-Profit,4,979
+2018,Hospital,Community Hospitals,Private,0,0
+2018,Residential Long-Term,Nursing Homes,Public,21,5581
+2018,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5953
+2018,Residential Long-Term,Nursing Homes,Private,28,3671
+2018,Residential Long-Term,Inpatient Hospices,Public,0,24
+2018,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155
+2018,Residential Long-Term,Inpatient Hospices,Private,0,0
+2019,Hospital,Acute,Public,10,9404
+2019,Hospital,Acute,Not-for-Profit,1,288
+2019,Hospital,Acute,Private,8,1629
+2019,Hospital,Psychiatric Hospitals,Public,1,1950
+2019,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0
+2019,Hospital,Psychiatric Hospitals,Private,0,0
+2019,Hospital,Community Hospitals,Public,5,974
+2019,Hospital,Community Hospitals,Not-for-Profit,4,1012
+2019,Hospital,Community Hospitals,Private,0,0
+2019,Residential Long-Term,Nursing Homes,Public,23,6238
+2019,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5963
+2019,Residential Long-Term,Nursing Homes,Private,31,3858
+2019,Residential Long-Term,Inpatient Hospices,Public,0,24
+2019,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155
+2019,Residential Long-Term,Inpatient Hospices,Private,0,0

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-16T14:36:33.264Z,37.7015,141.587,63.07,7.3,mww,,29,2.937,1,us,us6000h519,2022-03-16T15:19:14.999Z,"57 km ENE of Namie, Japan",earthquake,6.8,4.9,0.054,33,reviewed,us,us
+2022-03-16T14:34:27.351Z,37.6327,141.6846,56.32,6.4,mww,,51,2.984,0.74,us,us6000h518,2022-03-16T15:12:36.330Z,"62 km ENE of Namie, Japan",earthquake,7.5,6.4,0.098,10,reviewed,us,us
+2022-03-16T02:06:24.804Z,37.4375,142.9845,28.84,4.1,mb,,210,3.665,0.38,us,us6000h4x7,2022-03-16T15:05:14.273Z,"175 km E of Namie, Japan",earthquake,11.9,11.5,0.233,5,reviewed,us,us
+2022-03-11T11:13:06.068Z,35.5867,142.7305,10,4.8,mb,,136,3.449,0.55,us,us6000h3ru,2022-03-11T11:31:48.040Z,"172 km E of Hasaki, Japan",earthquake,6.9,1.9,0.036,233,reviewed,us,us
+2022-03-10T14:12:38.046Z,36.0175,139.8184,62.43,4.4,mb,,143,1.401,0.5,us,us6000h3k5,2022-03-12T16:15:15.210Z,"7 km ENE of Kasukabe, Japan",earthquake,6.6,7.9,0.101,32,reviewed,us,us
+2022-03-10T12:40:54.178Z,39.4097,143.6864,34.74,4.4,mb,,143,2.437,0.65,us,us6000h3jw,2022-03-10T13:27:48.040Z,"149 km E of Yamada, Japan",earthquake,8.5,6.2,0.109,25,reviewed,us,us

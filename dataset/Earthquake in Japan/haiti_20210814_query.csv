@@ -1,0 +1,216 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-08-16T04:35:51.680Z,17.8435,-66.8898,12,2.57,md,17,231,0.1993,0.21,pr,pr2021228001,2021-08-16T05:00:30.524Z,"14 km S of Guánica, Puerto Rico",earthquake,0.73,0.55,0.17,7,reviewed,pr,pr
+2021-08-16T01:33:40.550Z,17.9775,-66.7873,17,2.56,md,14,179,0.1925,0.15,pr,pr2021228000,2021-08-16T06:14:16.458Z,"3 km ESE of Indios, Puerto Rico",earthquake,0.46,0.34,0.17,5,reviewed,pr,pr
+2021-08-15T22:10:12.050Z,17.9833,-66.7738,11,2.75,md,17,175,0.1778,0.12,pr,pr2021227011,2021-08-16T00:56:25.321Z,"3 km S of Magas Arriba, Puerto Rico",earthquake,0.43,0.31,0.29,8,reviewed,pr,pr
+2021-08-15T21:38:27.410Z,18.2806,-68.003,103,3.64,md,11,156,0.4445,0.21,pr,pr2021227012,2021-08-16T06:21:13.582Z,"53 km SE of Punta Cana, Dominican Republic",earthquake,2.06,1.2,0.01,3,reviewed,pr,pr
+2021-08-15T16:05:05.782Z,18.5392,-73.581,12.04,4.1,mb,,95,1.739,0.49,us,us6000f6mb,2021-08-15T17:08:23.040Z,"7 km WNW of Petit Trou de Nippes, Haiti",earthquake,4.2,6.3,0.212,6,reviewed,us,us
+2021-08-15T15:34:25.680Z,17.9595,-66.9238,9,3.07,md,17,191,0.1208,0.17,pr,pr2021227009,2021-08-15T16:21:00.040Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.47,0.92,0.19,7,reviewed,pr,pr
+2021-08-15T12:41:41.120Z,19.3821,-64.7703,34,3.56,md,12,323,1.1905,0.41,pr,pr2021227008,2021-08-15T13:28:12.500Z,"116 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.72,27.02,0.09,9,reviewed,pr,pr
+2021-08-15T12:05:43.506Z,18.4762,-73.7504,10,4.7,mb,,42,1.932,0.85,us,us6000f6kw,2021-08-15T18:31:44.040Z,"11 km W of Baradères, Haiti",earthquake,5.1,1.9,0.026,451,reviewed,us,us
+2021-08-15T10:02:15.800Z,17.8825,-66.8861,9,2.58,md,18,229,0.1804,0.15,pr,pr2021227007,2021-08-15T13:33:36.465Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.61,0.71,0.1,13,reviewed,pr,pr
+2021-08-15T07:01:42.341Z,18.5103,-73.6685,12.96,4,mb,,75,1.739,0.65,us,us6000f6h4,2021-08-15T14:08:26.180Z,"4 km NW of Baradères, Haiti",earthquake,6,6.2,0.196,8,reviewed,us,us
+2021-08-15T05:43:07.450Z,17.8476,-66.8896,13,2.54,md,11,250,0.1968,0.14,pr,pr2021227006,2021-08-15T10:15:10.162Z,"13 km S of Guánica, Puerto Rico",earthquake,0.88,0.59,0.09,3,reviewed,pr,pr
+2021-08-15T05:02:48.870Z,17.8736,-66.8875,11,2.95,md,17,231,0.1837,0.15,pr,pr2021227004,2021-08-15T07:08:30.105Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.89,0.77,0.11,5,reviewed,pr,pr
+2021-08-15T04:00:02.138Z,18.4388,-74.0965,10,4,mb,,83,1.732,1.01,us,us6000f6ff,2021-08-15T04:25:08.040Z,"19 km NNE of Chardonnière, Haiti",earthquake,6.5,2,0.259,4,reviewed,us,us
+2021-08-15T03:47:44.420Z,17.8411,-66.8851,8,3,md,16,250,0.2044,0.19,pr,pr2021227003,2021-08-15T06:21:08.861Z,"14 km S of Guánica, Puerto Rico",earthquake,0.95,1.3,0.21,6,reviewed,pr,pr
+2021-08-15T03:39:50.010Z,17.8511,-66.886,7,4.08,ml,22,225,0.1976,0.16,pr,pr2021227002,2021-08-16T03:43:37.141Z,"13 km S of Guánica, Puerto Rico",earthquake,0.51,0.51,0.15,22,reviewed,pr,pr
+2021-08-15T03:20:45.674Z,18.3711,-74.0992,12.04,5.8,mww,,34,1.799,1.25,us,us6000f6ez,2021-08-16T03:24:56.494Z,"12 km NNE of Chardonnière, Haiti",earthquake,5.8,3.5,0.029,113,reviewed,us,us
+2021-08-15T02:37:53.046Z,18.5997,-73.5811,10,5,mww,,28,1.264,1.11,us,us6000f6el,2021-08-15T18:24:32.040Z,"11 km NW of Petit Trou de Nippes, Haiti",earthquake,5.9,1.9,0.078,16,reviewed,us,us
+2021-08-15T01:20:06.010Z,17.9881,-66.9516,9,2.56,md,9,179,0.0945,0.07,pr,pr2021227001,2021-08-15T01:52:30.739Z,"3 km W of Fuig, Puerto Rico",earthquake,0.42,0.75,0.04,4,reviewed,pr,pr
+2021-08-14T22:14:08.062Z,18.5174,-74.0251,15.04,4.4,mb,,76,1.66,0.71,us,us6000f6cd,2021-08-15T18:28:45.040Z,"15 km WSW of Corail, Haiti",earthquake,5.6,5.3,0.098,30,reviewed,us,us
+2021-08-14T22:10:53.790Z,18.4717,-74.0298,10,4.1,mb,,79,1.705,1.13,us,us6000f6cc,2021-08-15T03:01:41.661Z,"18 km SW of Corail, Haiti",earthquake,2.7,2,0.521,1,reviewed,us,us
+2021-08-14T20:41:54.280Z,18.0375,-66.7931,15,2.85,md,17,117,0.1869,0.22,pr,pr2021226010,2021-08-14T20:58:32.788Z,"2 km N of Guayanilla, Puerto Rico",earthquake,0.36,0.6,0.17,7,reviewed,pr,pr
+2021-08-14T20:21:18.040Z,18.0308,-66.7996,15,2.54,md,19,134,0.1937,0.08,pr,pr2021226011,2021-08-14T21:15:26.827Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.28,0.29,0.31,8,reviewed,pr,pr
+2021-08-14T18:11:10.604Z,18.591,-73.6128,10,5.1,mb,,70,1.294,0.97,us,us6000f69k,2021-08-15T18:22:06.040Z,"12 km NNE of Baradères, Haiti",earthquake,6.2,1.9,0.026,473,reviewed,us,us
+2021-08-14T17:05:19.119Z,18.4743,-73.6174,7.22,5.2,mb,,58,2.264,0.68,us,us6000f691,2021-08-15T11:10:22.743Z,"2 km ESE of Baradères, Haiti",earthquake,5.6,4.9,0.022,669,reviewed,us,us
+2021-08-14T16:08:03.225Z,18.5398,-73.7125,10,5.1,mb,,92,2.339,1.12,us,us6000f67i,2021-08-15T18:26:46.040Z,"10 km NW of Baradères, Haiti",earthquake,4.8,1.9,0.033,292,reviewed,us,us
+2021-08-14T15:08:11.423Z,18.4932,-73.5949,10,4.2,mb,,104,2.239,0.71,us,us6000f67e,2021-08-14T17:04:09.040Z,"4 km ENE of Baradères, Haiti",earthquake,5.1,2,0.264,4,reviewed,us,us
+2021-08-14T14:57:34.207Z,18.476,-73.6736,10,4.6,mb,,78,2.316,0.69,us,us6000f66y,2021-08-14T15:10:36.040Z,"3 km W of Baradères, Haiti",earthquake,2.8,1.9,0.058,90,reviewed,us,us
+2021-08-14T14:40:48.952Z,18.4906,-73.7093,10,4.2,mb,,86,2.346,1.1,us,us6000f66r,2021-08-14T15:01:32.040Z,"7 km W of Baradères, Haiti",earthquake,6.9,1.9,0.187,8,reviewed,us,us
+2021-08-14T14:28:51.340Z,18.4851,-73.5484,10,4.6,mb,,89,2.198,1.09,us,us6000f66l,2021-08-14T14:52:27.040Z,"6 km SW of Petit Trou de Nippes, Haiti",earthquake,6.6,1.9,0.057,93,reviewed,us,us
+2021-08-14T14:02:35.601Z,18.4506,-73.5952,10,4.2,mb,,92,2.249,0.66,us,us6000f66b,2021-08-14T18:50:54.040Z,"5 km SE of Baradères, Haiti",earthquake,6.5,1.9,0.371,2,reviewed,us,us
+2021-08-14T13:23:12.640Z,17.9726,-67.1663,5,2.66,md,16,235,0.066,0.19,pr,pr2021226009,2021-08-14T14:21:22.408Z,"2 km E of Pole Ojea, Puerto Rico",earthquake,0.61,0.31,0.27,13,reviewed,pr,pr
+2021-08-14T13:14:56.014Z,18.2706,-73.431,10,4.4,mb,,78,1.16,1,us,us6000f667,2021-08-14T14:51:20.881Z,"4 km WSW of Aquin, Haiti",earthquake,5.9,1.9,0.08,45,reviewed,us,us
+2021-08-14T13:14:12.969Z,18.4531,-73.4612,11.04,4.1,mb,,72,2.125,0.68,us,us6000f65w,2021-08-15T05:42:16.569Z,"9 km SSE of Petit Trou de Nippes, Haiti",earthquake,4.6,5.8,0.197,7,reviewed,us,us
+2021-08-14T12:49:33.454Z,18.3887,-73.8245,10.81,5.2,mb,,71,2.42,0.9,us,us6000f65p,2021-08-14T15:51:16.476Z,"20 km WNW of Cavaillon, Haiti",earthquake,6.3,4,0.117,24,reviewed,us,us
+2021-08-14T12:29:08.422Z,18.4079,-73.4753,10,7.2,mww,,23,1.174,0.73,us,us6000f65h,2021-08-16T06:49:23.913Z,"Nippes, Haiti",earthquake,5.8,1.8,0.031,97,reviewed,us,us
+2021-08-14T12:01:06.870Z,17.9178,-66.8471,8,2.7,md,18,213,0.2038,0.08,pr,pr2021226008,2021-08-14T14:22:51.400Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.46,0.7,0.1,7,reviewed,pr,pr
+2021-08-14T11:31:22.777Z,17.9486,-67.1651,10,2.6,ml,,268,0.078,0.4,us,us6000f64y,2021-08-14T11:50:20.487Z,"3 km SE of Pole Ojea, Puerto Rico",earthquake,0.9,1.6,0.06,36,reviewed,us,us
+2021-08-14T05:48:13.550Z,18.0011,-66.8256,18,2.58,md,13,164,0.2209,0.15,pr,pr2021226006,2021-08-14T06:10:59.570Z,"1 km NW of Indios, Puerto Rico",earthquake,0.49,0.66,0.21,8,reviewed,pr,pr
+2021-08-14T05:26:26.620Z,17.871,-66.8628,13,3.13,md,22,230,0.2064,0.15,pr,pr2021226005,2021-08-14T06:03:08.689Z,"12 km SSE of Guánica, Puerto Rico",earthquake,0.55,0.36,0.07,9,reviewed,pr,pr
+2021-08-14T04:50:31.200Z,17.7981,-66.8951,13,2.84,md,7,268,0.2271,0.08,pr,pr2021226004,2021-08-14T05:31:13.221Z,"19 km S of Guánica, Puerto Rico",earthquake,0.68,0.58,0.17,4,reviewed,pr,pr
+2021-08-14T02:30:54.730Z,17.9371,-66.3346,7,2.64,md,12,191,0.2295,0.14,pr,pr2021226003,2021-08-14T04:52:38.552Z,"Puerto Rico region",earthquake,0.54,0.95,0.02,4,reviewed,pr,pr
+2021-08-14T02:17:34.790Z,17.9413,-66.3366,4,3.21,md,17,190,0.231,0.23,pr,pr2021226002,2021-08-14T04:59:50.331Z,"4 km SE of Jauca, Puerto Rico",earthquake,0.63,0.53,0.24,8,reviewed,pr,pr
+2021-08-14T02:01:56.680Z,17.9486,-66.3308,7,3.23,md,21,187,0.2246,0.22,pr,pr2021226001,2021-08-14T03:19:26.269Z,"4 km SSW of Las Ochenta, Puerto Rico",earthquake,0.53,0.86,0.13,15,reviewed,pr,pr
+2021-08-14T01:46:55.560Z,17.8063,-66.812,4,3.21,md,22,230,0.2838,0.26,pr,pr2021226000,2021-08-14T03:01:56.369Z,"20 km SSE of Maria Antonia, Puerto Rico",earthquake,0.59,0.43,0.12,11,reviewed,pr,pr
+2021-08-13T19:42:03.960Z,17.9245,-66.8395,7,2.64,md,9,225,0.2096,0.09,pr,pr2021225005,2021-08-13T20:02:41.259Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.59,0.32,0.25,3,reviewed,pr,pr
+2021-08-13T13:13:34.670Z,17.9458,-67.0845,12,3.12,md,14,244,0.0467,0.13,pr,pr2021225006,2021-08-13T14:09:27.913Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.75,0.24,0.23,7,reviewed,pr,pr
+2021-08-13T11:10:52.800Z,17.967,-66.7696,10,3.35,md,18,181,0.1801,0.2,pr,pr2021225008,2021-08-13T20:11:39.830Z,"5 km S of Magas Arriba, Puerto Rico",earthquake,0.58,0.7,0.1,8,reviewed,pr,pr
+2021-08-13T06:45:20.960Z,18.03,-66.6765,17,3.12,md,20,165,0.0714,0.16,pr,pr2021225004,2021-08-13T12:04:41.768Z,"3 km SE of Tallaboa Alta, Puerto Rico",earthquake,0.41,0.37,0.08,14,reviewed,pr,pr
+2021-08-13T05:47:47.120Z,17.927,-66.7525,13,2.75,md,9,229,0.1866,0.14,pr,pr2021225003,2021-08-13T06:13:17.456Z,"8 km SSW of Tallaboa, Puerto Rico",earthquake,0.71,0.54,0.02,3,reviewed,pr,pr
+2021-08-13T04:50:14.550Z,17.9526,-67.113,10,3.13,md,20,244,0.0539,0.07,pr,pr2021225002,2021-08-13T05:31:01.852Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.55,0.24,0.18,9,reviewed,pr,pr
+2021-08-13T03:49:17.420Z,17.9208,-66.9068,12,2.52,md,10,225,0.1458,0.12,pr,pr2021225001,2021-08-13T05:08:10.582Z,"5 km S of Guánica, Puerto Rico",earthquake,0.73,0.48,0.19,4,reviewed,pr,pr
+2021-08-13T00:46:19.350Z,17.9551,-67.1241,9,3.36,md,23,237,0.0533,0.19,pr,pr2021225000,2021-08-13T01:37:46.040Z,"6 km ESE of Pole Ojea, Puerto Rico",earthquake,0.68,0.59,0.26,21,reviewed,pr,pr
+2021-08-12T23:58:35.140Z,17.9336,-67.1165,9,2.64,md,8,247,0.0731,0.5,pr,pr2021224006,2021-08-13T00:39:17.620Z,"8 km ESE of Pole Ojea, Puerto Rico",earthquake,1.87,1.21,0.1,7,reviewed,pr,pr
+2021-08-12T23:33:55.420Z,18.4166,-66.0701,118,3.05,md,9,180,0.4526,0.3,pr,pr2021224005,2021-08-13T01:05:42.614Z,"5 km ESE of Cataño, Puerto Rico",earthquake,2.85,1.54,0.1,7,reviewed,pr,pr
+2021-08-12T23:17:17.600Z,17.9296,-67.0945,10,3.31,md,21,240,0.0641,0.16,pr,pr2021224004,2021-08-13T05:16:36.040Z,"7 km SW of La Parguera, Puerto Rico",earthquake,0.73,0.37,0.13,19,reviewed,pr,pr
+2021-08-12T22:50:21.920Z,17.948,-67.1005,11,3.34,md,23,237,0.0591,0.16,pr,pr2021224003,2021-08-12T23:15:17.040Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.68,0.32,0.14,21,reviewed,pr,pr
+2021-08-11T13:14:48.580Z,19.1305,-65.249,37,3.33,md,6,301,0.8237,0.23,pr,pr2021223003,2021-08-11T13:36:08.787Z,"91 km N of Culebra, Puerto Rico",earthquake,2.53,13.88,0.08,4,reviewed,pr,pr
+2021-08-11T05:28:28.040Z,18.2425,-63.9496,159,4.18,md,11,348,1.3345,0.26,pr,pr2021223002,2021-08-11T07:02:03.040Z,"89 km E of Cruz Bay, U.S. Virgin Islands",earthquake,5.75,3.09,0.09,5,reviewed,pr,pr
+2021-08-11T02:49:47.350Z,17.918,-66.8991,13,2.52,md,12,217,0.154,0.15,pr,pr2021223000,2021-08-11T03:31:43.525Z,"6 km S of Guánica, Puerto Rico",earthquake,0.8,0.39,0.06,5,reviewed,pr,pr
+2021-08-11T02:43:13.480Z,17.9393,-66.8901,10,3.32,md,23,195,0.157,0.17,pr,pr2021223001,2021-08-12T02:00:30.370Z,"4 km SSE of Guánica, Puerto Rico",earthquake,0.6,0.78,0.13,22,reviewed,pr,pr
+2021-08-10T21:36:48.950Z,18.2521,-67.7625,2,3.29,md,18,155,0.3127,0.69,pr,pr2021222007,2021-08-10T23:19:51.451Z,"55 km W of Stella, Puerto Rico",earthquake,2,1.43,0.12,17,reviewed,pr,pr
+2021-08-10T19:00:25.980Z,18.0315,-66.8368,11,2.59,md,8,166,0.2165,0.21,pr,pr2021222006,2021-08-12T11:11:43.610Z,"1 km ESE of Yauco, Puerto Rico",earthquake,0.74,1.45,0.17,5,reviewed,pr,pr
+2021-08-10T11:32:43.560Z,18.0058,-66.5255,6,2.85,md,13,164,0.0875,0.2,pr,pr2021222005,2021-08-10T11:57:47.502Z,"1 km SE of Capitanejo, Puerto Rico",earthquake,0.5,0.39,0.12,5,reviewed,pr,pr
+2021-08-10T08:48:31.170Z,17.9415,-67.102,10,2.52,md,8,248,0.0642,0.07,pr,pr2021222003,2021-08-10T09:01:45.980Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.84,0.33,0.05,3,reviewed,pr,pr
+2021-08-10T07:48:18.520Z,17.9438,-66.9383,11,2.93,md,14,213,0.109,0.1,pr,pr2021222002,2021-08-10T08:18:30.849Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.47,0.34,0.14,10,reviewed,pr,pr
+2021-08-10T06:23:45.870Z,17.9388,-66.939,11,3.07,md,22,206,0.1096,0.14,pr,pr2021222001,2021-08-10T06:41:12.830Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.63,0.4,0.2,15,reviewed,pr,pr
+2021-08-09T22:44:46.620Z,18.4831,-67.5053,19,3.22,md,16,293,0.1021,0.09,pr,pr2021221008,2021-08-09T23:22:50.867Z,"31 km WNW of Rincón, Puerto Rico",earthquake,0.9,0.35,0.1,14,reviewed,pr,pr
+2021-08-09T21:48:14.800Z,17.952,-66.8341,11,3.13,md,21,196,0.2108,0.23,pr,pr2021221007,2021-08-09T22:00:16.241Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.72,0.56,0.18,17,reviewed,pr,pr
+2021-08-09T19:39:36.970Z,17.98,-67.1511,6,3.13,md,14,229,0.0492,0.06,pr,pr2021221005,2021-08-09T20:17:07.353Z,"3 km E of Pole Ojea, Puerto Rico",earthquake,0.51,0.2,0.2,8,reviewed,pr,pr
+2021-08-09T06:35:44.050Z,18.795,-64.8285,37,3.39,md,17,322,0.6662,0.13,pr,pr2021221003,2021-08-09T07:16:28.642Z,"51 km NNE of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.44,4.019,0.1,3,reviewed,pr,pr
+2021-08-09T04:22:57.070Z,17.9135,-66.9175,9,2.97,md,21,221,0.1385,0.14,pr,pr2021221002,2021-08-11T05:32:43.040Z,"6 km S of Guánica, Puerto Rico",earthquake,0.44,0.7,0.34,11,reviewed,pr,pr
+2021-08-08T21:35:24.740Z,17.9813,-66.8361,15,2.88,md,22,176,0.2085,0.21,pr,pr2021220003,2021-08-08T22:31:51.677Z,"2 km SW of Indios, Puerto Rico",earthquake,0.44,0.48,0.2,17,reviewed,pr,pr
+2021-08-08T16:54:33.640Z,17.9888,-66.748,13,2.73,md,23,169,0.1517,0.16,pr,pr2021220002,2021-08-08T17:24:02.157Z,"3 km WSW of Tallaboa, Puerto Rico",earthquake,0.5,0.3,0.36,17,reviewed,pr,pr
+2021-08-08T05:17:57.270Z,17.9171,-66.9468,8,2.69,md,10,232,0.1106,0.12,pr,pr2021220001,2021-08-08T05:50:20.347Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.67,0.86,0.18,4,reviewed,pr,pr
+2021-08-08T03:48:38.670Z,17.962,-66.9325,9,2.83,md,19,189,0.112,0.17,pr,pr2021220000,2021-08-08T04:31:36.129Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.48,0.77,0.36,4,reviewed,pr,pr
+2021-08-07T19:41:51.130Z,17.9308,-66.9195,13,2.62,md,16,210,0.1306,0.26,pr,pr2021219007,2021-08-07T21:03:04.238Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.9,0.45,0.21,16,reviewed,pr,pr
+2021-08-07T15:31:45.280Z,17.9668,-66.9836,5,2.61,md,17,195,0.0607,0.14,pr,pr2021219006,2021-08-07T16:20:38.567Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.51,0.28,0.25,6,reviewed,pr,pr
+2021-08-07T04:47:03.060Z,17.8965,-66.8673,13,3.02,md,20,228,0.1914,0.1,pr,pr2021219001,2021-08-07T05:34:21.983Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.69,0.41,0.23,10,reviewed,pr,pr
+2021-08-07T04:04:46.270Z,17.9795,-66.9066,9,2.67,md,20,176,0.138,0.1,pr,pr2021219000,2021-08-07T04:37:52.149Z,"0 km N of Guánica, Puerto Rico",earthquake,0.28,0.42,0.26,8,reviewed,pr,pr
+2021-08-06T20:47:35.890Z,17.9415,-67.0303,6,2.99,md,18,228,0.0312,0.25,pr,pr2021218010,2021-08-06T21:06:17.425Z,"4 km SSE of La Parguera, Puerto Rico",earthquake,0.83,0.34,0.33,16,reviewed,pr,pr
+2021-08-06T18:09:09.570Z,17.9863,-66.9511,10,2.88,md,14,169,0.0946,0.16,pr,pr2021218009,2021-08-06T18:38:04.766Z,"3 km W of Fuig, Puerto Rico",earthquake,0.49,0.58,0.26,8,reviewed,pr,pr
+2021-08-06T15:30:06.380Z,18.1691,-67.3001,20,3.07,md,16,193,0.1625,0.16,pr,pr2021218008,2021-08-06T16:17:43.402Z,"15 km NW of Puerto Real, Puerto Rico",earthquake,0.66,1.27,0.2,12,reviewed,pr,pr
+2021-08-06T09:18:30.570Z,19.1483,-67.7433,48,3.3,md,16,249,0.8082,0.34,pr,pr2021218005,2021-08-06T10:05:44.170Z,"93 km NE of Punta Cana, Dominican Republic",earthquake,2.48,8.24,0.04,2,reviewed,pr,pr
+2021-08-06T08:52:28.920Z,17.9256,-66.9013,13,2.56,md,10,221,0.1495,0.07,pr,pr2021218004,2021-08-06T09:12:28.295Z,"Puerto Rico region",earthquake,0.64,0.39,0.27,2,reviewed,pr,pr
+2021-08-06T06:56:55.050Z,17.8731,-66.855,13,2.86,md,21,240,0.2123,0.19,pr,pr2021218003,2021-08-06T07:21:33.813Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.88,0.46,0.07,7,reviewed,pr,pr
+2021-08-06T03:29:37.250Z,17.9358,-67.074,12,2.76,md,15,259,0.0449,0.06,pr,pr2021218000,2021-08-06T04:08:11.161Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.48,0.15,0.33,8,reviewed,pr,pr
+2021-08-06T03:18:35.230Z,17.947,-67.0708,12,3.08,md,21,235,0.0348,0.1,pr,pr2021218001,2021-08-06T04:30:13.440Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.67,0.2,0.37,7,reviewed,pr,pr
+2021-08-05T23:25:16.990Z,17.9491666666667,-67.0956666666667,12.33,2.67,md,14,243,,0.27,pr,pr71241858,2021-08-06T00:27:18.630Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,1.01,0.37,0.106563741708108,15,reviewed,pr,pr
+2021-08-05T23:08:00.310Z,17.962,-67.0895,11.89,3.21,md,16,233,,0.17,pr,pr71241848,2021-08-06T00:05:04.430Z,"4 km WSW of La Parguera, Puerto Rico",earthquake,0.63,0.25,0.239196667788896,19,reviewed,pr,pr
+2021-08-05T19:45:07.750Z,18.3611666666667,-68.3391666666667,58.42,3.77,md,20,165,,0.61,pr,pr71241823,2021-08-05T20:28:07.160Z,"25 km SSE of Punta Cana, Dominican Republic",earthquake,5.29,2.57,0.161379209850001,11,reviewed,pr,pr
+2021-08-05T11:38:48.570Z,18.6481666666667,-68.6726666666667,65.92,3.32,md,8,197,,0.33,pr,pr71241743,2021-08-05T15:51:20.330Z,"1 km WSW of Otra Banda, Dominican Republic",earthquake,5.91,1.16,0.151166057203494,6,reviewed,pr,pr
+2021-08-05T08:10:29.160Z,17.9605,-67.1008,12,2.98,md,19,241,0.0467,0.14,pr,pr2021217008,2021-08-05T08:32:50.434Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.74,0.31,0.32,8,reviewed,pr,pr
+2021-08-05T07:10:20.920Z,17.9678,-67.1093,11,3.08,md,20,239,0.0386,0.09,pr,pr2021217007,2021-08-05T07:43:24.704Z,"6 km W of La Parguera, Puerto Rico",earthquake,0.52,0.21,0.25,10,reviewed,pr,pr
+2021-08-05T06:46:58.780Z,18.8608,-67.3476,10,3.16,md,18,271,0.4589,0.24,pr,pr2021217006,2021-08-05T07:11:42.704Z,"48 km NNW of San Antonio, Puerto Rico",earthquake,0.96,1.07,0.1,9,reviewed,pr,pr
+2021-08-05T04:11:24.520Z,19.0538,-63.9173,41,3.86,md,10,343,1.5559,0.4,pr,pr2021217004,2021-08-06T03:37:09.040Z,"122 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,6.33,24.31,0.04,4,reviewed,pr,pr
+2021-08-05T02:12:28.330Z,17.967,-66.8683,10,2.63,md,15,181,0.1759,0.24,pr,pr2021217003,2021-08-05T02:36:48.175Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.6,0.54,0.14,6,reviewed,pr,pr
+2021-08-05T01:04:02.894Z,19.1377,-69.3615,10,3.4,ml,,136,0.852,0.8,us,us6000f2b5,2021-08-05T04:09:16.040Z,"7 km SSW of Samaná, Dominican Republic",earthquake,3.3,2,0.053,46,reviewed,us,us
+2021-08-05T01:02:33.580Z,17.956,-67.0971,10,2.82,md,12,242,0.0519,0.08,pr,pr2021217002,2021-08-05T02:14:29.696Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.51,0.21,0.26,6,reviewed,pr,pr
+2021-08-05T00:57:16.480Z,17.9376,-67.1121,11,3.39,md,22,239,0.0688,0.1,pr,pr2021217001,2021-08-06T00:59:13.650Z,"8 km WSW of La Parguera, Puerto Rico",earthquake,0.66,0.28,0.09,9,reviewed,pr,pr
+2021-08-05T00:53:04.270Z,17.942,-67.1086,11,3.4,md,22,239,0.0644,0.07,pr,pr2021217000,2021-08-06T00:54:45.018Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.67,0.31,0.14,20,reviewed,pr,pr
+2021-08-04T23:12:05.160Z,17.8258,-65.6668,10,3.05,md,5,250,0.2944,0.14,pr,pr2021216007,2021-08-05T00:06:12.933Z,"29 km SE of Emajagua, Puerto Rico",earthquake,0.9,0.69,0.15,5,reviewed,pr,pr
+2021-08-04T16:27:45.640Z,17.9605,-67.0863,11,2.53,md,7,243,0.043,0.07,pr,pr2021216004,2021-08-04T16:37:49.538Z,"4 km WSW of La Parguera, Puerto Rico",earthquake,0.91,0.26,0.01,4,reviewed,pr,pr
+2021-08-04T12:09:19.290Z,17.9271,-66.8595,14,2.61,md,9,220,0.1895,0.12,pr,pr2021216003,2021-08-04T12:28:50.524Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.61,0.91,0.09,3,reviewed,pr,pr
+2021-08-04T03:31:55.710Z,17.9545,-66.9575,9,2.59,md,20,192,0.088,0.11,pr,pr2021216001,2021-08-04T03:54:33.454Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.49,0.89,0.19,12,reviewed,pr,pr
+2021-08-04T02:39:05.790Z,18.496,-66.9603,17,2.75,md,9,193,0.1535,0.2,pr,pr2021216000,2021-08-04T03:17:16.654Z,"3 km NW of Quebradillas, Puerto Rico",earthquake,0.89,0.69,0.07,4,reviewed,pr,pr
+2021-08-03T20:07:27.070Z,17.9676,-66.9678,7,3.07,md,22,182,0.0764,0.22,pr,pr2021215002,2021-08-04T15:02:01.040Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.56,0.43,0.25,17,reviewed,pr,pr
+2021-08-03T12:01:41.830Z,18.3996,-68.3008,82,3.43,md,12,156,0.1399,0.03,pr,pr2021215001,2021-08-03T12:29:52.871Z,"22 km SSE of Punta Cana, Dominican Republic",earthquake,2.5,0.89,0.17,9,reviewed,pr,pr
+2021-08-03T10:34:40.990Z,17.9595,-67.008,10,2.92,md,15,210,0.0376,0.13,pr,pr2021215000,2021-08-03T12:29:31.647Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.62,0.44,0.2,5,reviewed,pr,pr
+2021-08-02T18:14:45.320Z,17.954,-67.0073,5,2.72,md,13,218,0.04,0.16,pr,pr2021214009,2021-08-02T18:31:20.420Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.93,0.53,0.15,9,reviewed,pr,pr
+2021-08-02T17:04:41.590Z,19.0905,-66.2823,44,3.28,md,11,250,0.6613,0.25,pr,pr2021214008,2021-08-02T17:25:21.194Z,"69 km N of Brenas, Puerto Rico",earthquake,1.65,4.64,0.1,9,reviewed,pr,pr
+2021-08-02T16:55:49.200Z,18.015,-66.772,15,2.74,md,20,124,0.1681,0.17,pr,pr2021214007,2021-08-02T17:23:27.402Z,"0 km SW of Magas Arriba, Puerto Rico",earthquake,0.34,0.45,0.23,17,reviewed,pr,pr
+2021-08-02T15:27:15.410Z,18.5051,-65.0086,111,3.82,md,23,322,0.3378,0.15,pr,pr2021214006,2021-08-02T16:41:49.040Z,"19 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.62,0.66,0.09,18,reviewed,pr,pr
+2021-08-02T12:53:41.590Z,17.9388,-66.9921,6,3.07,md,12,231,0.0605,0.14,pr,pr2021214005,2021-08-02T13:57:14.770Z,"7 km SE of La Parguera, Puerto Rico",earthquake,0.85,0.32,0.13,4,reviewed,pr,pr
+2021-08-02T11:54:09.430Z,19.2678,-68.0976,19,3.55,md,17,255,0.8055,0.52,pr,pr2021214004,2021-08-09T11:27:12.040Z,"82 km NNE of Punta Cana, Dominican Republic",earthquake,4.59,8.81,0.12,14,reviewed,pr,pr
+2021-08-02T11:23:22.450Z,18.4316,-67.299,6,2.98,md,10,184,0.1862,0.14,pr,pr2021214003,2021-08-02T12:27:29.614Z,"11 km NNW of Rincón, Puerto Rico",earthquake,0.62,0.65,0.2,5,reviewed,pr,pr
+2021-08-02T02:38:25.170Z,17.7923,-65.087,25,3.48,md,10,296,0.5509,0.2,pr,pr2021214000,2021-08-02T14:31:14.856Z,"36 km W of Saint Croix, U.S. Virgin Islands",earthquake,2.04,13.49,0.03,2,reviewed,pr,pr
+2021-08-01T19:51:52.400Z,17.9421,-67.056,10,2.61,md,9,243,0.0298,0.09,pr,pr2021213008,2021-08-01T20:34:38.490Z,"Puerto Rico region",earthquake,0.7,0.21,0.17,5,reviewed,pr,pr
+2021-08-01T18:15:38.900Z,17.9348,-66.8426,9,2.92,md,21,194,0.2046,0.15,pr,pr2021213007,2021-08-01T19:28:53.040Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.43,0.55,0.28,14,reviewed,pr,pr
+2021-08-01T14:40:52.590Z,17.9533,-67.1036,11,3.26,md,23,236,0.0534,0.08,pr,pr2021213004,2021-08-01T16:10:12.040Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.59,0.25,0.15,21,reviewed,pr,pr
+2021-08-01T14:31:24.120Z,17.9453,-67.1056,12,3.2,md,22,237,0.0612,0.09,pr,pr2021213005,2021-08-01T15:30:07.826Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.66,0.25,0.25,20,reviewed,pr,pr
+2021-08-01T14:12:39.800Z,17.9438,-67.108,11,3.29,md,21,238,0.0626,0.09,pr,pr2021213003,2021-08-01T14:41:18.037Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.7,0.31,0.18,18,reviewed,pr,pr
+2021-08-01T14:02:33.220Z,17.9451,-67.1103,9,2.87,md,16,245,0.0613,0.08,pr,pr2021213006,2021-08-01T16:03:54.475Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.7,0.29,0.16,5,reviewed,pr,pr
+2021-08-01T12:01:28.600Z,18.1398,-68.156,94,3.56,md,20,233,0.4368,0.34,pr,pr2021213002,2021-08-04T04:46:16.040Z,"54 km ESE of Boca de Yuma, Dominican Republic",earthquake,2.59,1.41,0.14,12,reviewed,pr,pr
+2021-08-01T11:05:31.800Z,17.9519,-67.0895,11,2.67,md,18,243,0.0486,0.09,pr,pr2021213001,2021-08-01T12:42:29.758Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.59,0.19,0.2,12,reviewed,pr,pr
+2021-08-01T05:49:11.200Z,18.7755,-64.3838,24,3.56,md,15,335,1.0133,0.16,pr,pr2021213000,2021-08-01T09:05:07.040Z,"65 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.54,13.95,0.06,6,reviewed,pr,pr
+2021-07-31T21:28:07.870Z,17.9788,-66.984,5,3.04,md,17,171,0.0609,0.14,pr,pr2021212005,2021-07-31T23:25:30.156Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.48,0.4,0.18,11,reviewed,pr,pr
+2021-07-31T15:57:21.730Z,17.9433,-67.0888,12,3.22,md,21,237,0.0517,0.14,pr,pr2021212003,2021-07-31T17:18:29.040Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.68,0.24,0.13,17,reviewed,pr,pr
+2021-07-31T14:56:11.920Z,17.9588,-67.0718,11,2.96,md,10,243,0.0296,0.1,pr,pr2021212002,2021-07-31T15:49:11.414Z,"3 km SW of La Parguera, Puerto Rico",earthquake,0.65,0.27,0.33,9,reviewed,pr,pr
+2021-07-31T01:51:35.910Z,19.5833,-67.6433,57,3.42,md,9,281,1.21,0.22,pr,pr2021212000,2021-07-31T02:32:31.890Z,"133 km NNW of San Antonio, Puerto Rico",earthquake,2.33,9.8,0.31,2,reviewed,pr,pr
+2021-07-30T23:51:34.809Z,18.1054,-68.6151,128.79,2.7,ml,,185,0.463,0.35,us,us6000f0ut,2021-08-16T03:05:37.040Z,"30 km S of Boca de Yuma, Dominican Republic",earthquake,11,8.2,0.081,20,reviewed,us,us
+2021-07-30T23:18:26.880Z,17.9566,-66.9195,9,3.11,md,21,193,0.1254,0.16,pr,pr2021211004,2021-07-30T23:33:17.614Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.42,0.75,0.23,18,reviewed,pr,pr
+2021-07-30T13:48:33.330Z,18.948,-66.7666,14,3.14,md,11,256,0.5272,0.48,pr,pr2021211003,2021-07-30T14:04:36.527Z,"51 km N of Hatillo, Puerto Rico",earthquake,1.81,2.47,0.19,6,reviewed,pr,pr
+2021-07-30T02:16:03.080Z,17.8725,-66.88,13,2.68,md,13,240,0.1907,0.09,pr,pr2021211000,2021-07-30T02:39:28.101Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.56,0.34,0.18,4,reviewed,pr,pr
+2021-07-29T21:41:22.090Z,18.0568,-66.8191,17,3.06,md,20,115,0.2133,0.12,pr,pr2021210004,2021-07-30T01:48:53.568Z,"4 km NE of Yauco, Puerto Rico",earthquake,0.29,0.31,0.13,11,reviewed,pr,pr
+2021-07-29T20:46:33.480Z,17.8688,-66.876,10,2.55,md,16,220,0.196,0.22,pr,pr2021210003,2021-07-29T21:06:37.885Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.75,0.66,0.19,6,reviewed,pr,pr
+2021-07-29T12:27:20.690Z,17.939,-67.1028,11,2.55,md,10,281,0.066,0.08,pr,pr2021210002,2021-07-29T12:45:54.824Z,"7 km SW of La Parguera, Puerto Rico",earthquake,0.84,0.27,0.14,5,reviewed,pr,pr
+2021-07-28T19:36:05.560Z,18.0423,-66.8876,15,3.19,md,21,138,0.1727,0.32,pr,pr2021209008,2021-07-28T19:55:00.951Z,"1 km ENE of Lluveras, Puerto Rico",earthquake,0.49,0.82,0.18,18,reviewed,pr,pr
+2021-07-28T18:44:20.230Z,17.9503,-66.9205,10,3.1,md,21,192,0.1252,0.23,pr,pr2021209007,2021-07-28T19:26:17.998Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.49,0.83,0.23,16,reviewed,pr,pr
+2021-07-28T18:41:43.140Z,18.5923,-66.392,109,3.54,md,22,204,0.1794,0.35,pr,pr2021209006,2021-08-04T03:58:32.456Z,"14 km NNW of Brenas, Puerto Rico",earthquake,1.85,0.99,0.13,17,reviewed,pr,pr
+2021-07-28T18:00:34.850Z,17.9311,-67.1116,9,2.92,md,11,248,0.0753,0.15,pr,pr2021209005,2021-07-28T18:14:56.596Z,"8 km SW of La Parguera, Puerto Rico",earthquake,1.02,0.45,0.19,10,reviewed,pr,pr
+2021-07-28T15:14:59.610Z,19.6416,-63.8926,78,3.84,md,12,334,1.9265,0.23,pr,pr2021209004,2021-07-28T21:35:14.040Z,"173 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.19,11.61,0.07,6,reviewed,pr,pr
+2021-07-28T12:22:00.680Z,17.9701,-67.2423,5,3.06,md,10,243,0.1376,0.21,pr,pr2021209003,2021-07-28T12:30:14.627Z,"6 km W of Pole Ojea, Puerto Rico",earthquake,0.74,0.74,0.22,6,reviewed,pr,pr
+2021-07-28T08:02:17.900Z,17.9638,-67.2438,8,2.57,md,13,246,0.1408,0.28,pr,pr2021209002,2021-07-28T08:32:25.829Z,"6 km WSW of Pole Ojea, Puerto Rico",earthquake,0.97,1.41,0.08,6,reviewed,pr,pr
+2021-07-28T06:14:53.260Z,17.9745,-66.9703,6,2.64,md,14,176,0.0741,0.09,pr,pr2021209001,2021-07-28T06:29:40.826Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.6,0.64,0.28,6,reviewed,pr,pr
+2021-07-27T17:14:24.990Z,17.9615,-66.9566,8,2.61,md,12,200,0.088,0.13,pr,pr2021208004,2021-07-27T17:24:35.366Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.51,1.17,0.24,8,reviewed,pr,pr
+2021-07-27T16:20:44.280Z,17.9733,-68.2698,83,3.67,md,13,332,0.8912,0.4,pr,pr2021208003,2021-07-27T16:51:47.040Z,"57 km SE of Boca de Yuma, Dominican Republic",earthquake,3.39,3.15,0.07,8,reviewed,pr,pr
+2021-07-27T13:55:24.520Z,17.9343,-67.0918,11,2.72,md,10,261,0.0591,0.1,pr,pr2021208002,2021-07-27T14:06:41.417Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.83,0.31,0.12,6,reviewed,pr,pr
+2021-07-27T03:48:23.600Z,17.957,-66.9641,8,3.23,md,20,191,0.0811,0.17,pr,pr2021208001,2021-07-28T01:48:56.040Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.4,0.84,0.19,15,reviewed,pr,pr
+2021-07-27T02:15:21.850Z,18.4625,-68.425,147,3.67,md,15,339,1.1255,0.52,pr,pr2021208000,2021-07-28T01:17:32.040Z,"13 km S of Punta Cana, Dominican Republic",earthquake,6.14,2.88,0.09,6,reviewed,pr,pr
+2021-07-26T15:58:25.680Z,17.982,-67.1541,7,3.18,md,16,228,0.0507,0.16,pr,pr2021207005,2021-07-26T16:30:23.040Z,"3 km ENE of Pole Ojea, Puerto Rico",earthquake,0.69,0.23,0.15,7,reviewed,pr,pr
+2021-07-26T12:21:20.850Z,17.9861,-66.8526,15,2.69,md,11,173,0.1923,0.2,pr,pr2021207003,2021-07-26T13:03:56.147Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.67,0.94,0.14,5,reviewed,pr,pr
+2021-07-26T06:20:09.530Z,18.1841,-66.1696,30,2.79,md,9,146,0.0775,0.09,pr,pr2021207001,2021-07-26T06:44:50.130Z,"1 km NW of Cidra, Puerto Rico",earthquake,0.58,0.91,0.31,3,reviewed,pr,pr
+2021-07-26T01:43:37.850Z,19.5706,-68.2848,55,3.68,md,18,329,0.946,0.43,pr,pr2021207000,2021-07-29T02:20:37.040Z,"103 km NE of Miches, Dominican Republic",earthquake,3.92,16.81,0.11,6,reviewed,pr,pr
+2021-07-25T19:46:44.620Z,18.3968,-65.157,23,3.47,md,21,327,0.1541,0.05,pr,pr2021206010,2021-07-25T23:47:01.135Z,"18 km NE of Culebra, Puerto Rico",earthquake,1.78,0.5,0.14,13,reviewed,pr,pr
+2021-07-25T14:31:01.580Z,17.9646,-67.093,10,2.93,md,16,236,0.045,0.15,pr,pr2021206007,2021-07-25T16:55:08.164Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.74,0.34,0.33,15,reviewed,pr,pr
+2021-07-25T13:47:14.260Z,17.972,-66.9343,11,2.59,md,20,181,0.1099,0.15,pr,pr2021206006,2021-07-25T16:54:46.716Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.47,0.39,0.33,19,reviewed,pr,pr
+2021-07-25T06:02:05.720Z,18.6598,-66.4466,76,3.47,md,22,212,0.2006,0.16,pr,pr2021206004,2021-07-26T06:03:51.246Z,"22 km NNE of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.83,0.88,0.11,19,reviewed,pr,pr
+2021-07-25T03:11:25.080Z,19.2341,-64.7695,36,3.51,md,15,322,1.0591,0.2,pr,pr2021206003,2021-07-25T20:01:58.417Z,"99 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.98,11.42,0.18,5,reviewed,pr,pr
+2021-07-24T19:34:22.280Z,18.4636,-67.2126,19,3.09,md,22,194,0.1015,0.24,pr,pr2021205005,2021-08-03T03:11:53.040Z,"7 km WNW of Aguadilla, Puerto Rico",earthquake,0.73,0.54,0.18,16,reviewed,pr,pr
+2021-07-24T15:28:05.420Z,17.951,-67.0996,11,2.76,md,14,244,0.0563,0.13,pr,pr2021205004,2021-07-24T15:42:28.214Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.56,0.25,0.29,10,reviewed,pr,pr
+2021-07-24T14:38:50.170Z,17.9633,-66.9543,10,3.12,md,23,189,0.0901,0.11,pr,pr2021205003,2021-07-24T16:52:02.040Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.36,0.35,0.14,21,reviewed,pr,pr
+2021-07-24T13:32:43.520Z,17.9666,-67.0161,7,2.54,md,15,199,0.0283,0.24,pr,pr2021205002,2021-07-24T13:48:15.147Z,"3 km ESE of La Parguera, Puerto Rico",earthquake,0.68,0.33,0.33,7,reviewed,pr,pr
+2021-07-23T22:01:25.800Z,17.9525,-65.9688,32,3.03,md,23,204,0.0846,0.22,pr,pr2021204008,2021-07-24T23:37:37.040Z,"3 km SSE of Lamboglia, Puerto Rico",earthquake,0.99,0.91,0.18,17,reviewed,pr,pr
+2021-07-23T16:35:50.610Z,17.894,-66.898,15,2.5,md,4,274,0.1645,0.06,pr,pr2021204005,2021-07-23T16:48:37.155Z,"8 km S of Guánica, Puerto Rico",earthquake,1.57,2.35,0.02,3,reviewed,pr,pr
+2021-07-23T16:18:15.500Z,19.535,-63.5095,58,3.85,md,12,341,2.1565,0.19,pr,pr2021204006,2021-07-23T19:18:39.040Z,"153 km NNW of The Valley, Anguilla",earthquake,3.75,13.27,0.09,6,reviewed,pr,pr
+2021-07-23T15:46:19.870Z,19.6066,-63.6881,90,3.79,md,9,345,2.0566,0.44,pr,pr2021204004,2021-07-23T17:03:26.040Z,"Leeward Islands",earthquake,10.04,19.85,0.11,3,reviewed,pr,pr
+2021-07-23T09:40:59.290Z,17.9931,-66.768,14,3.26,md,23,166,0.1692,0.19,pr,pr2021204003,2021-07-30T04:49:40.040Z,"2 km S of Magas Arriba, Puerto Rico",earthquake,0.45,0.44,0.12,16,reviewed,pr,pr
+2021-07-23T02:40:36.890Z,17.9315,-66.8423,7,2.99,md,16,195,0.2054,0.2,pr,pr2021204001,2021-07-23T02:57:22.406Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.62,1.01,0.18,7,reviewed,pr,pr
+2021-07-23T01:21:43.070Z,17.9548,-67.1796,11,2.93,md,20,245,0.087,0.3,pr,pr2021204000,2021-07-23T01:54:23.876Z,"2 km SSE of Pole Ojea, Puerto Rico",earthquake,1.02,0.65,0.38,17,reviewed,pr,pr
+2021-07-22T23:52:55.330Z,18.0365,-66.7925,16,2.74,md,20,118,0.1864,0.3,pr,pr2021203010,2021-07-23T00:17:37.554Z,"1 km N of Guayanilla, Puerto Rico",earthquake,0.45,0.7,0.29,15,reviewed,pr,pr
+2021-07-22T22:15:38.160Z,17.9643,-67.104,11,3.09,md,24,234,0.0425,0.14,pr,pr2021203009,2021-07-24T04:08:51.040Z,"6 km W of La Parguera, Puerto Rico",earthquake,0.55,0.26,0.23,21,reviewed,pr,pr
+2021-07-22T21:05:05.870Z,18.4255,-67.3533,13,3.03,md,18,189,0.1324,0.19,pr,pr2021203007,2021-07-22T21:43:32.782Z,"14 km NW of Rincón, Puerto Rico",earthquake,0.89,0.88,0.13,14,reviewed,pr,pr
+2021-07-22T19:32:37.690Z,17.9468,-67.1843,10,2.8,md,16,249,0.0956,0.17,pr,pr2021203006,2021-07-22T19:59:43.891Z,"3 km S of Pole Ojea, Puerto Rico",earthquake,0.77,0.49,0.34,10,reviewed,pr,pr
+2021-07-22T16:26:47.060Z,18.0016,-66.9791,13,2.97,md,12,160,0.0726,0.14,pr,pr2021203005,2021-07-22T16:53:16.110Z,"6 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.54,0.29,0.2,3,reviewed,pr,pr
+2021-07-22T06:42:42.380Z,17.9465,-67.0875,12,3.15,md,23,236,0.049,0.08,pr,pr2021203003,2021-08-15T12:21:32.040Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.5,0.2,0.22,14,reviewed,pr,pr
+2021-07-22T04:16:41.120Z,18.2105,-67.2395,119,3.18,md,17,161,0.2419,0.17,pr,pr2021203002,2021-07-22T13:33:45.527Z,"10 km SSW of La Playa, Puerto Rico",earthquake,1.14,0.66,0.1,8,reviewed,pr,pr
+2021-07-21T19:55:44.190Z,19.2271,-65.9813,29,3.44,md,13,281,0.9237,0.16,pr,pr2021202011,2021-07-21T20:26:19.960Z,"85 km N of San Juan, Puerto Rico",earthquake,0.96,8.92,0.1,7,reviewed,pr,pr
+2021-07-21T19:41:22.440Z,19.1895,-66.0013,25,3.17,md,15,280,0.8843,0.37,pr,pr2021202009,2021-07-21T20:08:17.743Z,"80 km N of San Juan, Puerto Rico",earthquake,1.61,24.45,0.09,10,reviewed,pr,pr
+2021-07-21T19:37:43.890Z,19.1811,-66.0073,21,3.55,md,24,260,0.8754,0.2,pr,pr2021202010,2021-08-04T17:46:20.040Z,"79 km N of San Juan, Puerto Rico",earthquake,0.77,17.67,0.07,14,reviewed,pr,pr
+2021-07-21T19:11:00.260Z,19.2025,-65.9921,24,3.65,md,22,261,0.8982,0.39,pr,pr2021202008,2021-08-04T17:52:14.040Z,"82 km N of San Juan, Puerto Rico",earthquake,1.44,25.38,0.08,21,reviewed,pr,pr
+2021-07-21T17:26:40.640Z,17.9538,-67.1076,10,2.58,md,10,243,0.0526,0.11,pr,pr2021202007,2021-07-21T17:57:53.124Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.74,0.3,0.06,5,reviewed,pr,pr
+2021-07-21T17:22:56.200Z,17.9471,-67.109,11,3.34,md,25,238,0.0593,0.11,pr,pr2021202006,2021-08-04T19:13:13.040Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.63,0.31,0.17,23,reviewed,pr,pr
+2021-07-21T11:17:36.400Z,19.0236,-68.444,6,3.77,md,19,175,0.5135,0.54,pr,pr2021202005,2021-08-14T08:57:52.040Z,"Dominican Republic region",earthquake,1.26,1.7,0.11,11,reviewed,pr,pr
+2021-07-21T07:52:29.520Z,18.0078,-67.0583,6,3.04,md,25,109,0.0409,0.09,pr,pr2021202003,2021-07-22T07:50:53.040Z,"3 km NNW of La Parguera, Puerto Rico",earthquake,0.35,0.17,0.32,21,reviewed,pr,pr
+2021-07-21T06:19:38.490Z,19.1615,-66.4465,23,3.45,md,22,255,0.6894,0.27,pr,pr2021202001,2021-07-21T13:55:22.040Z,"77 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.06,18.75,0.11,18,reviewed,pr,pr
+2021-07-21T06:07:06.392Z,18.6818,-66.0713,75.56,2.6,ml,,218,0.37,0.34,us,us6000exjp,2021-07-22T05:23:13.040Z,"24 km N of San Juan, Puerto Rico",earthquake,6.5,6.7,0.059,38,reviewed,us,us
+2021-07-20T23:18:01.550Z,18.0113,-66.7975,14,2.62,md,21,156,0.1938,0.31,pr,pr2021201003,2021-07-21T00:31:06.137Z,"1 km SW of Guayanilla, Puerto Rico",earthquake,0.45,0.6,0.18,15,reviewed,pr,pr
+2021-07-20T21:35:43.540Z,17.958,-67.1053,11,3.05,md,18,242,0.0486,0.14,pr,pr2021201002,2021-07-20T22:37:41.278Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.71,0.23,0.23,17,reviewed,pr,pr
+2021-07-19T22:23:53.450Z,17.949,-67.0943,11,2.79,md,16,236,0.0541,0.24,pr,pr2021200006,2021-07-19T22:40:31.980Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.89,0.37,0.18,12,reviewed,pr,pr
+2021-07-19T18:26:28.000Z,17.9596,-67.1003,11,2.67,md,13,242,0.0477,0.07,pr,pr2021200005,2021-07-19T19:18:11.349Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.6,0.27,0.19,8,reviewed,pr,pr
+2021-07-19T01:33:26.006Z,19.7691,-75.5106,10,4.2,mb,,142,0.407,0.7,us,us7000enbd,2021-08-05T16:15:17.153Z,"43 km SE of Santiago de Cuba, Cuba",earthquake,7.5,1.9,0.049,116,reviewed,us,us
+2021-07-19T01:01:25.240Z,17.9578,-67.0198,9,2.74,md,17,211,0.027,0.14,pr,pr2021200000,2021-07-19T01:17:19.833Z,"3 km SE of La Parguera, Puerto Rico",earthquake,0.45,0.38,0.32,11,reviewed,pr,pr
+2021-07-18T23:43:18.930Z,17.9591,-67.096,11,2.98,md,19,234,0.0492,0.19,pr,pr2021199031,2021-07-19T22:39:57.040Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.66,0.3,0.15,14,reviewed,pr,pr
+2021-07-18T23:29:22.390Z,17.9383,-66.8531,16,2.9,md,22,193,0.1936,0.25,pr,pr2021199030,2021-07-19T00:00:49.040Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.7,0.55,0.29,15,reviewed,pr,pr
+2021-07-18T23:11:45.720Z,19.2225,-65.0258,89,3.56,md,7,322,0.9503,0.42,pr,pr2021199029,2021-07-19T00:21:46.705Z,"97 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,8.85,15.47,0.02,4,reviewed,pr,pr
+2021-07-18T21:26:10.100Z,17.953,-67.1078,11,3.06,md,18,236,0.0534,0.12,pr,pr2021199028,2021-07-18T21:44:17.724Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.63,0.34,0.44,7,reviewed,pr,pr
+2021-07-18T17:24:10.150Z,17.9588,-67.0831,12,2.54,md,13,241,0.0403,0.15,pr,pr2021199027,2021-07-18T19:48:46.328Z,"Puerto Rico region",earthquake,0.68,0.27,0.26,9,reviewed,pr,pr
+2021-07-18T09:30:23.920Z,17.9253,-66.8973,7,3.21,md,23,202,0.1534,0.13,pr,pr2021199005,2021-08-05T05:34:49.040Z,"5 km SSE of Guánica, Puerto Rico",earthquake,0.44,0.24,0.15,22,reviewed,pr,pr
+2021-07-18T07:52:05.730Z,17.9526,-67.0986,11,2.82,md,19,235,0.0549,0.1,pr,pr2021199019,2021-07-18T18:20:46.438Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.65,0.33,0.14,6,reviewed,pr,pr
+2021-07-18T07:42:17.760Z,17.9533,-67.0941,10,2.65,md,23,235,0.0524,0.09,pr,pr2021199016,2021-07-18T18:18:10.462Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.59,0.25,0.06,14,reviewed,pr,pr
+2021-07-18T05:23:07.110Z,17.966,-67.108,10,3.04,md,16,265,0.0404,0.15,pr,pr2021199014,2021-08-12T10:16:09.040Z,"6 km W of La Parguera, Puerto Rico",earthquake,0.67,0.28,0.25,10,reviewed,pr,pr
+2021-07-18T05:09:25.960Z,17.9476,-67.0993,11,2.75,md,19,244,0.0592,0.08,pr,pr2021199010,2021-07-18T16:49:09.920Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.5,0.22,0.06,14,reviewed,pr,pr
+2021-07-18T04:50:05.640Z,17.9416,-67.0975,11,3.11,md,24,238,0.0601,0.09,pr,pr2021199009,2021-08-12T23:46:19.040Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.66,0.22,0.17,23,reviewed,pr,pr
+2021-07-18T04:47:23.400Z,17.9541,-67.106,10,2.75,md,23,236,0.0524,0.1,pr,pr2021199006,2021-07-20T21:24:12.040Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.57,0.29,0.27,22,reviewed,pr,pr
+2021-07-18T04:45:42.360Z,17.9553,-67.0951,11,4.26,ml,22,235,0.0528,0.07,pr,pr2021199003,2021-08-12T23:48:22.754Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.46,0.16,0.18,17,reviewed,pr,pr
+2021-07-18T04:43:00.010Z,17.9416,-67.103,11,3.36,md,22,238,0.065,0.07,pr,pr2021199002,2021-08-12T23:42:59.645Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.51,0.26,0.25,22,reviewed,pr,pr
+2021-07-18T04:19:06.630Z,17.9441,-67.0876,10,2.64,md,22,236,0.0502,0.13,pr,pr2021199008,2021-08-12T23:37:01.439Z,"5 km SW of La Parguera, Puerto Rico",earthquake,0.59,0.23,0.26,13,reviewed,pr,pr
+2021-07-18T03:58:54.030Z,17.9643,-67.0958,10,2.66,md,20,233,0.0443,0.1,pr,pr2021199011,2021-07-18T18:15:34.846Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.63,0.29,0.28,15,reviewed,pr,pr
+2021-07-18T03:52:25.310Z,17.9443,-67.0966,11,4.46,ml,28,237,0.0581,0.08,pr,pr2021199004,2021-08-12T23:36:50.183Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.63,0.29,0.1,18,reviewed,pr,pr
+2021-07-18T03:50:03.360Z,17.9396,-67.1035,11,3.12,md,24,239,0.0664,0.1,pr,pr2021199001,2021-08-12T23:28:50.109Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.51,0.27,0.25,23,reviewed,pr,pr
+2021-07-18T02:55:39.660Z,18.0571,-66.793,11,3.12,md,17,98,0.1873,0.16,pr,pr2021199000,2021-07-18T04:57:29.510Z,"4 km N of Guayanilla, Puerto Rico",earthquake,0.3,0.48,0.14,3,reviewed,pr,pr
+2021-07-17T16:48:18.350Z,17.9243,-66.9268,10,2.9,md,21,215,0.1258,0.14,pr,pr2021198007,2021-07-17T17:38:14.225Z,"5 km SSW of Guánica, Puerto Rico",earthquake,0.51,0.64,0.27,13,reviewed,pr,pr
+2021-07-17T13:24:00.800Z,18.209,-67.2168,101,3.15,md,18,154,0.0724,0.28,pr,pr2021198005,2021-07-17T14:43:46.420Z,"8 km W of Mayagüez, Puerto Rico",earthquake,1.72,0.89,0.14,13,reviewed,pr,pr
+2021-07-17T05:06:52.430Z,19.6276,-63.5315,41,3.99,md,16,340,2.1929,0.24,pr,pr2021198004,2021-08-04T05:41:42.040Z,"163 km NNW of The Valley, Anguilla",earthquake,2.98,19.17,0.06,4,reviewed,pr,pr
+2021-07-17T02:43:34.920Z,17.9451,-66.8485,12,2.72,md,15,200,0.1972,0.09,pr,pr2021198000,2021-07-17T03:38:03.547Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.48,0.46,0.07,6,reviewed,pr,pr

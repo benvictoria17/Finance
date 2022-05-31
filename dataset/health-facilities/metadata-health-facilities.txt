@@ -1,0 +1,205 @@
+# Metadata for Health Facilities and Beds in Inpatient Facilities
+---
+Identifier: 'ff5b0c9a-15b7-40bf-8cec-f34f542bc2f9'
+Name: 'health-facilities'
+Title: 'Health Facilities and Beds in Inpatient Facilities'
+Description: 'Health facilities broken down into Acute, Psychiatric, Community hospitals,
+  with new breakdown by residential long-term care facilities (i.e. nursing homes
+  and inpatient hospice).'
+Topics:
+  - 'Health'
+Keywords:
+  - 'acute'
+  - 'community hospital'
+  - 'dental clinics'
+  - 'facilities'
+  - 'health'
+  - 'healthcare'
+  - 'not-for-profit'
+  - 'nursing homes'
+  - 'pharmacies'
+  - 'polyclinics'
+  - 'psychiatric'
+  - 'public'
+Publisher:
+  Name: 'Ministry of Health'
+  Admin 1:
+    Name: 'Shanice Teo'
+    Department: 'Research and Statistics Division'
+    Email: 'shanice_teo@moh.gov.sg'
+  Admin 2:
+    Name: 'Koh Poh Yoke'
+    Department: 'Research and Statistics Division'
+    Email: 'koh_poh_yoke@moh.gov.sg'
+Sources:
+  - 'Ministry of Health'
+Source Url: 'https://www.moh.gov.sg/content/moh_web/home/statistics/Health_Facts_Singapore.html'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2009-01-01 to 2019-12-31'
+Last Updated: '2020-03-18T06:26:56.208664'
+Resources:
+  -
+    Identifier: 'dee5ccce-4dfb-467f-bcb4-dc025b56b977'
+    Title: 'Health Facilities and Beds in Inpatient Facilities'
+    Url: 'https://storage.data.gov.sg/health-facilities/resources/health-facilities-and-beds-in-inpatient-facilities-2020-03-18T01-40-58Z.csv'
+    Format: 'CSV'
+    Coverage: '2009-01-01 to 2019-12-31'
+    Description: 'Health Facilities and Beds in Inpatient Facilities (Total)'
+    Last Updated: '2020-03-18T01:40:58.277336'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description: 'Year'
+      -
+        Name: 'institution_type'
+        Title: 'Institution type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Type of Institution'
+      -
+        Name: 'facility_type_a'
+        Title: 'Type of Facility'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Type of Facility'
+      -
+        Name: 'no_of_facilities'
+        Title: 'No of Facilities'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Facilities'
+        Description: 'Number of Facilities'
+      -
+        Name: 'no_beds'
+        Title: 'Number of Beds'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Beds'
+        Description: 'Number of Beds'
+  -
+    Identifier: '1e5b2dd3-97fb-44e4-9f88-c6415ef230cd'
+    Title: 'Health Facilities and Beds in Inpatient Facilities (Public Not-for-Profit
+      Private)'
+    Url: 'https://storage.data.gov.sg/health-facilities/resources/health-facilities-and-beds-in-inpatient-facilities-public-not-for-profit-private-2020-03-18T01-41-07Z.csv'
+    Format: 'CSV'
+    Coverage: '2009-01-01 to 2019-12-31'
+    Description: 'Health Facilities and Beds in Inpatient Facilities with breakdown
+      by the following categories: Public, Not-for-Profit and Private'
+    Last Updated: '2020-03-18T01:41:07.630527'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description: 'Year'
+      -
+        Name: 'institution_type'
+        Title: 'Institution type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Type of Institution'
+      -
+        Name: 'facility_type_a'
+        Title: 'Type of Facility'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Type of Facility'
+      -
+        Name: 'public_private'
+        Title: 'Public, Not-for-Profit, Private'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Breakdown into Public, Not-for-Profit, Private'
+      -
+        Name: 'no_of_facilities'
+        Title: 'No of facilities'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'
+        Description: 'Number of Facilities'
+      -
+        Name: 'no_beds'
+        Title: 'Number of beds'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'
+        Description: 'Number of Beds'
+  -
+    Identifier: 'b698c206-a63c-489f-8c50-b439c349c025'
+    Title: 'Health Facilities (Dental Clinics and Pharmacies)'
+    Url: 'https://storage.data.gov.sg/health-facilities/resources/health-facilities-dental-clinics-and-pharmacies-2020-03-18T01-42-21Z.csv'
+    Format: 'CSV'
+    Coverage: '2009-01-01 to 2019-12-31'
+    Description: 'Health Facilities for Dental Clinics and Pharmacies (Total)'
+    Last Updated: '2020-03-18T01:42:21.672044'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'institution_type'
+        Title: 'Institution type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Year'
+      -
+        Name: 'sector'
+        Title: 'Sector Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Total, Public, Private'
+      -
+        Name: 'no_of_facilities'
+        Title: 'Number of facilities'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'
+  -
+    Identifier: '05ebe68b-e003-42e0-a38f-e3a6837c5d16'
+    Title: 'Health Facilities (Primary Care, Dental Clinics and Pharmacies)'
+    Url: 'https://storage.data.gov.sg/health-facilities/resources/health-facilities-primary-care-dental-clinics-and-pharmacies-2020-03-18T01-43-12Z.csv'
+    Format: 'CSV'
+    Coverage: '2009-01-01 to 2019-12-31'
+    Description: 'Health Facilities in Primary Care, Dental Clinics and Pharmacies
+      with further breakdown'
+    Last Updated: '2020-03-18T01:43:12.087419'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description: 'Year'
+      -
+        Name: 'institution_type'
+        Title: 'Institution type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'sector'
+        Title: 'Sector Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Public, Private'
+      -
+        Name: 'facility_type_b'
+        Title: 'Type of Facility'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no_of_facilities'
+        Title: 'Number of facilities'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'

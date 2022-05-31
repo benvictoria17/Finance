@@ -1,0 +1,56 @@
+year,institution_type,facility_type_a,no_of_facilities,no_beds
+2009,Hospital,Acute,14,8289
+2009,Hospital,Psychiatric Hospitals,1,2040
+2009,Hospital,Community Hospitals,6,877
+2009,Residential Long-Term,Nursing Homes,60,9442
+2009,Residential Long-Term,Inpatient Hospices,2,129
+2010,Hospital,Acute,15,8249
+2010,Hospital,Psychiatric Hospitals,1,2010
+2010,Hospital,Community Hospitals,6,842
+2010,Residential Long-Term,Nursing Homes,62,9551
+2010,Residential Long-Term,Inpatient Hospices,2,123
+2011,Hospital,Acute,15,8304
+2011,Hospital,Psychiatric Hospitals,1,2010
+2011,Hospital,Community Hospitals,6,800
+2011,Residential Long-Term,Nursing Homes,64,9690
+2011,Residential Long-Term,Inpatient Hospices,2,133
+2012,Hospital,Acute,17,8725
+2012,Hospital,Psychiatric Hospitals,1,2010
+2012,Hospital,Community Hospitals,6,842
+2012,Residential Long-Term,Nursing Homes,64,9721
+2012,Residential Long-Term,Inpatient Hospices,2,149
+2013,Hospital,Acute,17,8939
+2013,Hospital,Psychiatric Hospitals,1,2010
+2013,Hospital,Community Hospitals,6,852
+2013,Residential Long-Term,Nursing Homes,66,10838
+2013,Residential Long-Term,Inpatient Hospices,2,149
+2014,Hospital,Acute,18,9262
+2014,Hospital,Psychiatric Hospitals,1,1950
+2014,Hospital,Community Hospitals,6,1065
+2014,Residential Long-Term,Nursing Homes,65,10968
+2014,Residential Long-Term,Inpatient Hospices,2,141
+2015,Hospital,Acute,19,9844
+2015,Hospital,Psychiatric Hospitals,1,1950
+2015,Hospital,Community Hospitals,7,1464
+2015,Residential Long-Term,Nursing Homes,71,12185
+2015,Residential Long-Term,Inpatient Hospices,2,141
+2016,Hospital,Acute,19,10318
+2016,Hospital,Psychiatric Hospitals,1,1950
+2016,Hospital,Community Hospitals,8,1663
+2016,Residential Long-Term,Nursing Homes,69,13022
+2016,Residential Long-Term,Inpatient Hospices,2,173
+2017,Hospital,Acute,18,10340
+2017,Hospital,Psychiatric Hospitals,1,1950
+2017,Hospital,Community Hospitals,8,1663
+2017,Residential Long-Term,Nursing Homes,73,14918
+2017,Residential Long-Term,Inpatient Hospices,2,179
+2018,Hospital,Acute,19,10826
+2018,Hospital,Psychiatric Hospitals,1,1950
+2018,Hospital,Community Hospitals,8,1778
+2018,Residential Long-Term,Nursing Homes,72,15205
+2018,Residential Long-Term,Inpatient Hospices,2,179
+2019,Hospital,Acute,19,11321
+2019,Hospital,Psychiatric Hospitals,1,1950
+2019,Hospital,Community Hospitals,9,1986
+2019,Residential Long-Term,Nursing Homes,77,16059
+2019,Residential Long-Term,Inpatient Hospices,2,179

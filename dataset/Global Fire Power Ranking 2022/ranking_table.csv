@@ -1,0 +1,141 @@
+rank,name,power_index,progress,id
+1,United States,0.0453,up,united-states-of-america
+2,Russia,0.0501,up,russia
+3,China,0.0511,up,china
+4,India,0.0979,up,india
+5,Japan,0.1195,up,japan
+6,South Korea,0.1261,up,south-korea
+7,France,0.1283,up,france
+8,United Kingdom,0.1382,up,united-kingdom
+9,Pakistan,0.1572,up,pakistan
+10,Brazil,0.1695,up,brazil
+11,Italy,0.1801,up,italy
+12,Egypt,0.1869,up,egypt
+13,Turkey,0.1961,up,turkey
+14,Iran,0.2104,stable,iran
+15,Indonesia,0.2251,up,indonesia
+16,Germany,0.2322,stable,germany
+17,Australia,0.2377,up,australia
+18,Israel,0.2621,up,israel
+19,Spain,0.2901,up,spain
+20,Saudi Arabia,0.2966,up,saudi-arabia
+21,Taiwan,0.3215,down,taiwan
+22,Ukraine,0.3266,up,ukraine
+23,Canada,0.3601,up,canada
+24,Poland,0.4179,stable,poland
+25,Sweden,0.4231,up,sweden
+26,South Africa,0.4276,up,south-africa
+27,Greece,0.4506,up,greece
+28,Vietnam,0.4521,down,vietnam
+29,Thailand,0.4581,stable,thailand
+30,North Korea,0.4621,stable,north-korea
+31,Algeria,0.4724,stable,algeria
+32,Switzerland,0.5015,stable,switzerland
+33,Norway,0.5455,stable,norway
+34,Iraq,0.5597,up,iraq
+35,Nigeria,0.5745,up,nigeria
+36,United Arab Emirates,0.5859,up,united-arab-emirates
+37,Netherlands,0.5937,up,netherlands
+38,Romania,0.5938,up,romania
+39,Myanmar,0.5972,stable,myanmar
+40,Argentina,0.6091,down,argentina
+41,Czechia,0.6161,stable,czech-republic
+42,Singapore,0.6253,up,singapore
+43,Mexico,0.6423,up,mexico
+44,Colombia,0.6438,stable,colombia
+45,Venezuela,0.6664,up,venezuela
+46,Bangladesh,0.6851,stable,bangladesh
+47,Syria,0.6953,up,syria
+48,Malaysia,0.7091,stable,malaysia
+49,Portugal,0.7282,up,portugal
+50,Peru,0.7453,stable,peru
+51,Philippines,0.8076,stable,philippines
+52,Belarus,0.8124,stable,belarus
+53,Chile,0.8169,stable,chile
+54,Uzbekistan,0.8272,stable,uzbekistan
+55,Morocco,0.8573,stable,morocco
+56,Hungary,0.8633,up,hungary
+57,Denmark,0.8677,stable,denmark
+58,Austria,0.8924,stable,austria
+59,Finland,0.9019,stable,finland
+60,Slovakia,0.9617,stable,slovakia
+61,Serbia,0.9923,up,serbia
+62,Croatia,0.9962,up,croatia
+63,Azerbaijan,1.0251,stable,azerbaijan
+64,Kazakhstan,1.0615,stable,kazakhstan
+65,Ethiopia,1.0798,stable,ethiopia
+66,Angola,1.0931,stable,angola
+67,Bulgaria,1.1071,stable,bulgaria
+68,Ecuador,1.1235,stable,ecuador
+69,Belgium,1.1451,stable,belgium
+70,Cuba,1.2246,stable,cuba
+71,Kuwait,1.2988,stable,kuwait
+72,Libya,1.3265,stable,libya
+73,Sudan,1.3382,up,sudan
+74,Tunisia,1.3664,up,tunisia
+75,Jordan,1.3989,stable,jordan
+76,Democratic Republic of the Congo,1.4171,stable,democratic-republic-of-the-congo
+77,Qatar,1.4429,up,qatar
+78,Oman,1.4453,stable,oman
+79,Sri Lanka,1.4729,up,sri-lanka
+80,Yemen,1.4754,stable,yemen
+81,Kenya,1.5252,stable,kenya
+82,Bolivia,1.5708,stable,bolivia
+83,Turkmenistan,1.6728,stable,turkmenistan
+84,New Zealand,1.6836,stable,new-zealand
+85,Lithuania,1.7083,stable,lithuania
+86,Slovenia,1.9486,up,slovenia
+87,Chad,1.9638,up,chad
+88,Georgia,2.0014,stable,georgia
+89,Zambia,2.1966,down,zambia
+90,Kyrgyzstan,2.2011,stable,kyrgyzstan
+91,Guatemala,2.2421,stable,guatemala
+92,Uganda,2.2436,stable,uganda
+93,Zimbabwe,2.2498,down,zimbabwe
+94,Latvia,2.2758,stable,latvia
+95,Ghana,2.3098,stable,ghana
+96,Ireland,2.3147,stable,ireland
+97,Armenia,2.3169,up,armenia
+98,Bahrain,2.3269,stable,bahrain
+99,Mali,2.3829,stable,mali
+100,Cambodia,2.3944,stable,cambodia
+101,Mongolia,2.4318,stable,mongolia
+102,Uruguay,2.4526,stable,uruguay
+103,South Sudan,2.5072,up,south-sudan
+104,Cameroon,2.5771,up,cameroon
+105,Moldova,2.5799,stable,moldova
+106,Niger,2.5998,stable,niger
+107,Botswana,2.6008,stable,botswana
+108,Estonia,2.6527,stable,estonia
+109,Honduras,2.6558,stable,honduras
+110,Paraguay,2.6873,stable,paraguay
+111,Tajikistan,2.7163,down,tajikistan
+112,Ivory Coast,2.7392,stable,ivory-coast
+113,Tanzania,2.8437,stable,tanzania
+114,Lebanon,2.8681,stable,lebanon
+115,Albania,3.0023,down,albania
+116,Mozambique,3.1746,stable,mozambique
+117,Republic of the Congo,3.1759,stable,republic-of-the-congo
+118,Afghanistan,3.3736,down,afghanistan
+119,Nepal,3.4016,stable,nepal
+120,Dominican Republic,3.5349,up,dominican-republic
+121,Laos,3.6906,stable,laos
+122,Nicaragua,3.7337,stable,nicaragua
+123,Bosnia and Herzegovina,4.0288,stable,bosnia-and-herzegovina
+124,Eritrea,4.1541,up,eritrea
+125,Mauritania,4.3067,stable,mauritania
+126,Namibia,4.3496,stable,namibia
+127,El Salvador,4.3558,stable,el-salvador
+128,Madagascar,4.4351,stable,madagascar
+129,Burkina Faso,4.7216,stable,burkina-faso
+130,Gabon,4.7871,stable,gabon
+131,Montenegro,4.8015,down,montenegro
+132,Panama,5.0255,stable,panama
+133,Central African Republic,5.2184,down,central-african-republic
+134,North Macedonia,5.7275,down,macedonia
+135,Suriname,7.4234,up,suriname
+136,Sierra Leone,7.5206,down,sierra-leone
+137,Liberia,8.5213,stable,liberia
+138,Somalia,11.8854,down,somalia
+139,Kosovo,13.9136,up,kosovo
+140,Bhutan,35.8958,down,bhutan
