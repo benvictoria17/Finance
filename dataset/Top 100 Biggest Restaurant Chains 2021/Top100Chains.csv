@@ -1,0 +1,101 @@
+﻿RANK,CHAIN,"2020 U.S. Sales ($000,000)",YOY SALES CHANGE,2020 U.S. UNITS,YOY UNIT CHANGE,SEGMENT,MENU CATEGORY
+1,McDonald's,"$40,517",0.30%,"13,682",-1.20%,Quick Service,Burger
+2,Starbucks,"$18,485",-13.50%,"15,337",1.90%,Quick Service,Coffee Café
+3,Chick-fil-A,"$13,745",13.00%,"2,659",6.70%,Quick Service,Chicken
+4,Taco Bell,"$11,294",0.00%,"6,799",0.50%,Quick Service,Mexican
+5,Wendy's,"$10,231",4.80%,"5,881",0.50%,Quick Service,Burger
+6,Burger King,"$9,657",-5.40%,"7,081",-3.60%,Quick Service,Burger
+7,Dunkin',"$8,762",-5.10%,"9,083",-5.70%,Quick Service,Coffee Cafe
+8,Subway,"$8,318",-18.50%,"22,005",-7.50%,Quick Service,Sandwich
+9,Domino's,"$8,287",17.60%,"6,355",3.70%,Quick Service,Pizza
+10,Chipotle Mexican Grill,"$5,921",6.50%,"2,724",5.60%,Fast Casual,Mexican
+11,Sonic Drive-In,"$5,680",21.20%,"3,526",0.00%,Quick Service,Burger
+12,Pizza Hut,"$5,436",-2.20%,"6,561",-10.20%,Quick Service,Pizza
+13,Panera Bread,"$5,350",-10.50%,"2,106",-2.30%,Fast Casual,Sandwich
+14,KFC,"$4,742",4.30%,"3,943",-3.00%,Quick Service,Chicken
+15,Popeyes Louisiana Kitchen,"$4,587",20.30%,"2,608",5.30%,Quick Service,Chicken
+16,Arby's,"$4,215",8.50%,"3,369",0.30%,Quick Service,Sandwich
+17,Dairy Queen,"$3,978",5.80%,"4,361",-0.50%,Quick Service,Frozen Desserts
+18,Little Caesars,"$3,947",3.50%,"4,150",-1.50%,Quick Service,Pizza
+19,Panda Express,"$3,817",-3.30%,"2,263",2.40%,Fast Casual,Asian/Noodle
+20,Jack in the Box,"$3,673",4.80%,"2,241",-0.10%,Quick Service,Burger
+21,Olive Garden,"$3,407",-20.50%,868,0.20%,Casual Dining,Italian/Pizza
+22,Papa John's,"$3,191",15.90%,"3,134",-0.30%,Quick Service,Pizza
+23,Buffalo Wild Wings,"$3,114",-15.10%,"1,204",-0.20%,Casual Dining,Sports Bar
+24,Applebee's,"$3,101",-24.10%,"1,600",-3.90%,Casual Dining,Varied Menu
+25,Chili's Grill & Bar,"$3,082",-13.50%,"1,233",-0.70%,Casual Dining,Varied Menu
+26,Whataburger,"$2,698",5.60%,844,1.70%,Quick Service,Burger
+27,Texas Roadhouse,"$2,694",-13.40%,572,3.40%,Casual Dining,Steak
+28,IHOP,"$2,138",-34.60%,"1,670",-2.30%,Midscale,Family Style
+29,Outback Steakhouse,"$2,087",-20.80%,706,-2.50%,Casual Dining,Steak
+30,Zaxby's,"$1,996",5.00%,909,0.60%,Fast Casual,Chicken
+31,Culver's,"$1,986",10.60%,782,6.80%,Quick Service,Burger
+32,Jimmy John's Gourmet Sandwiches,"$1,925",-8.50%,"2,705",-2.90%,Fast Casual,Sandwich
+33,Wingstop,"$1,823",31.00%,"1,359",10.40%,Fast Casual,Chicken
+34,Hardee's,"$1,820",-9.50%,"1,755",-2.90%,Quick Service,Burger
+35,Cracker Barrel,"$1,770",-29.70%,663,0.50%,Midscale,Family Style
+36,Red Lobster,"$1,755",-29.50%,675,-0.60%,Casual Dining,Seafood
+37,Denny's,"$1,744",-35.20%,"1,534",-2.00%,Midscale,Family Style
+38,Raising Cane's Chicken Fingers,"$1,723",17.50%,509,11.40%,Fast Casual,Chicken
+39,Five Guys,"$1,711",3.00%,"1,382",1.00%,"	Fast Casual",Burger
+40,Jersey Mike's Subs,"$1,595",19.60%,"1,854",11.40%,Fast Casual,Sandwich
+41,LongHorn Steakhouse,"$1,587",-15.00%,538,1.50%,Casual Dining,Steak
+42,The Cheesecake Factory,"$1,585",-27.30%,206,0.00%,Casual Dining,Varied Menu
+43,Bojangles,"$1,374",3.20%,758,1.60%,Quick Service,Chicken
+44,Carl's Jr.,"$1,281",-8.50%,"1,063",-2.70%,Quick Service,Burger
+45,In-N-Out Burger,"$1,073",9.50%,361,2.80%,Quick Service,Burger
+46,Red Robin,"$1,050",-32.40%,546,-1.80%,Casual Dining,Varied Menu
+47,El Pollo Loco,$880,-1.70%,479,-0.60%,Quick Service,Chicken
+48,Del Taco,$852,0.20%,596,0.00%,Quick Service,Mexican
+49,Firehouse Subs,$840,0.90%,"1,153",-0.20%,Fast Casual,Sandwich
+50,Qdoba Mexican Eats,$818,-9.20%,741,1.50%,Fast Casual,Mexican
+51,Papa Murphy's Pizza,$797,6.50%,"1,293",-2.70%,Quick Service,Pizza
+52,BJ's Restaurant & Brewhouse,$779,-33.00%,210,1.00%,Casual Dining,Varied Menu
+53,Steak 'n Shake,$765,-20.50%,518,-10.20%,Quick Service,Burger
+54,Marco's Pizza,$760,21.00%,954,4.30%,Quick Service,Pizza
+55,Church's Chicken,$742,-14.80%,920,-9.80%,Quick Service,Chicken
+56,Waffle House,$736,-36.00%,"1,960",0.10%,Midscale,Family Style
+57,Krispy Kreme,$733,4.50%,365,1.40%,Quick Service,Other Beverage/snack
+58,Tropical Smoothie Cafe,$690,19.70%,914,9.60%,Quick Service,Other Beverage/snack
+59,TGI Fridays,$672,-38.00%,340,-11.70%,Casual Dining,Varied Menu
+60,Golden Corral,$663,-62.00%,440,-8.90%,Quick Service,All Other
+61,Freddy's Frozen Custard & Steakburgers,$643,20.00%,388,5.40%,Fast Casual,Burger
+62,McAlister's Deli,$625,-13.00%,481,2.60%,Fast Casual,Sandwich
+63,Baskin-Robbins,$620,0.80%,"2,419",-4.20%,Quick Service,Frozen Desserts
+64,Hooters,$605,-29.50%,340,-0.30%,Casual Dining,Sports Bar
+65,P.F. Chang's,$601,-34.50%,214,-3.20%,Casual Dining,Asian
+66,Dutch Bros Coffee,$584,3.00%,410,11.10%,Quick Service,Coffee Café
+67,White Castle,$583,0.50%,361,-2.70%,Quick Service,Burger
+68,Moe's Southwest Grill,$561,-23.30%,681,-5.70%,Fast Casual,Mexican
+69,Checkers Drive-In Restaurants,$546,0.50%,570,-2.70%,Quick Service,Burger
+70,Captain D's Seafood Kitchen,$544,-3.20%,534,-1.10%,Quick Service,"	All Other"
+71,Shake Shack,$535,-14.00%,205,10.80%,Fast Casual,Burger
+72,Carrabba's Italian Grill,$529,-19.00%,220,-2.20%,Casual Dining,"	Italian/Pizza"
+73,Tim Hortons,"	$511",-22.20%,630,-4.00%,Quick Service,Coffee Café
+74,Cheddar's Scratch Kitchen,$493,-32.00%,171,-2.30%,Casual Dining,Varied Menu
+75,Smoothie King,$483,4.70%,"1,007",3.60%,Quick Service,Other Beverage/snack
+76,Noodles & Company,$465,-13.00%,454,-0.70%,Fast Casual,Asian/Noodle
+77,The Habit Burger Grill,$465,-5.30%,278,5.30%,Fast Casual,Burger
+78,MOD Pizza,$461,-4.70%,490,4.90%,Fast Casual,Pizza
+79,Jack's,$460,3.30%,192,9.10%,Quick Service,Burger
+80,Portillo's,$455,-7.30%,64,3.20%,Fast Casual,Sandwich
+81,Hungry Howie's Pizza,$442,14.50%,537,0.00%,Quick Service,Pizza
+82,Bob Evans,$440,-42.50%,451,-5.10%,Midscale,Family Style
+83,Round Table Pizza,$439,2.80%,414,-3.30%,Quick Service,Pizza
+84,Charleys Philly Steaks,$432,-5.00%,560,2.00%,Quick Service,Sandwich
+85,Ruth's Chris Steak House,$429,-39.00%,128,-5.20%,Fine Dining,Steak
+86,Yard House,$427,-30.00%,81,2.50%,Casual Dining,Varied Menu
+87,Einstein Bros. Bagels,$426,-21.50%,707,-3.00%,Fast Casual,Sandwich
+88,First Watch,$424,-24.00%,410,11.40%,Midscale,Family Style
+89,California Pizza Kitchen,$419,-35.00%,173,-13.10%,Casual Dining,Italian/Pizza
+90,Jamba,$418,-15.70%,791,1.50%,Quick Service,Other Beverage/snack
+91,Jason's Deli,$405,-37.40%,252,-11.00%,Fast Casual,Sandwich
+92,Bonefish Grill,$404,-31.10%,187,-5.10%,Casual Dining,Seafood
+93,Taco John's,$388,4.70%,389,0.50%,"	Quick Service",Mexican
+94,Boston Market,$381,-24.10%,342,-13.00%,Fast Casual,Chicken
+95,Pollo Tropical,$368,-13.50%,167,-4.00%,Fast Casual,Chicken
+96,Auntie Anne's,$350,-37.90%,"1,197",-1.20%,Quick Service,Other Beverage/snack
+97,Cold Stone Creamery,$348,-6.70%,865,-3.70%,Quick Service,Frozen Desserts
+98,Jet's Pizza,$343,3.50%,383,0.00%,Quick Service,Pizza
+99,Maggiano's Little Italy,$338,-19.10%,53,0.00%,Casual Dining,Italian/Pizza
+100,The Capital Grille,$337,-27.00%,60,3.40%,Fast Casual,Steak
