@@ -1,0 +1,29 @@
+Entity,Code,Year,Health Insurance Coverage (Tanzi & Schuknecht (2000))
+Austria,AUT,1910,24
+Austria,AUT,1935,49
+Austria,AUT,1975,88
+Belgium,BEL,1910,12
+Belgium,BEL,1935,31
+Belgium,BEL,1975,96
+France,FRA,1910,18
+France,FRA,1935,36
+France,FRA,1975,94
+Germany,DEU,1910,44
+Germany,DEU,1935,52
+Germany,DEU,1975,72
+Ireland,IRL,1935,38
+Ireland,IRL,1975,71
+Italy,ITA,1910,6
+Italy,ITA,1935,22
+Italy,ITA,1975,91
+Netherlands,NLD,1935,42
+Netherlands,NLD,1975,74
+Norway,NOR,1935,56
+Norway,NOR,1975,100
+Sweden,SWE,1910,27
+Sweden,SWE,1935,35
+Sweden,SWE,1975,100
+Switzerland,CHE,1935,69
+Switzerland,CHE,1975,100
+United Kingdom,GBR,1935,82
+United Kingdom,GBR,1975,100
